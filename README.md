@@ -21,12 +21,12 @@ The primary difficulty for this project is in selectively targeting, joining, an
 Data cleaning will be needed to convey tidy results and more importantly to allow for the joining of data by using song names as our key. Due to how Spotify catalogs things, it is common to receive a result such as:
 
 	Song name: “Yellow Submarine - Remastered 2015”
-	Album: “Magical Mystery Tour (Remastered)”
+	Album: “Revolver (Remastered)”
 
 We will need to remove the extra details from these titles to retain only the desired information to make joining our data possible:
 
 	Song name: “Yellow Submarine”
-	Album: “Magical Mystery Tour”
+	Album: “Revolver”
 
 In addition to this essential cleaning, further cleaning can be done to provide presentable results. For instance, Spotify API data will list the key of a song, but lists it as a number value rather than standard musical notations. Our task would be to convert the “3” listed in key to something more understandable: “D Major”
 
