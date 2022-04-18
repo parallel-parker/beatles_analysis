@@ -1,5 +1,5 @@
 # beatles_analysis
-An analysis of the Beatles as a band and as individual with data sourced from Spotify's API
+An analysis of the Beatles as a band and as individuals with data sourced from Spotify's API
 
 SUMMARY:
 This project seeks to uncover the answer to a question long debated in popular music: who is the most popular (or most important Beatle) - John Lennon or Paul McCartney.  With data analysis, we should be able to answer this question. Well… at least as far as Spotify listeners are concerned, that is, as we’ll be using data sourced from Spotify’s exhaustive and thorough API. Along the way, we will uncover insights such as how the Beatles’ music changes over time, how the Beatles’ solo careers measure in popularity and musical features to the bands’ catalog, and how musical decisions of the Beatles correlate to the music of their contemporaries, such as The Rolling Stones, The Beach Boys, and The Kinks.
