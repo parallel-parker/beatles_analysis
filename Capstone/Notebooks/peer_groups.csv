@@ -1,0 +1,633 @@
+,song,artist,album,duration,track_num,release_date,popularity,danceability,energy,key,key_confidence,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo
+0,Rocks Off,The Rolling Stones,Exile On Main Street (2010 Re-Mastered),271933,1,1972-05-12,54,0.485,0.943,4,0.464,1,0.0416,0.0639,0.179,0.144,0.889,141.982
+1,Rip This Joint,The Rolling Stones,Exile On Main Street (2010 Re-Mastered),143293,2,1972-05-12,46,0.548,0.952,2,0.809,1,0.0422,0.118,0.837,0.301,0.906,98.04
+2,Shake Your Hips,The Rolling Stones,Exile On Main Street (2010 Re-Mastered),179000,3,1972-05-12,43,0.374,0.787,2,0.043,1,0.0617,0.69,0.831,0.203,0.763,180.496
+3,Casino Boogie,The Rolling Stones,Exile On Main Street (2010 Re-Mastered),214466,4,1972-05-12,42,0.53,0.691,2,0.64,1,0.0307,0.374,0.111,0.29,0.581,117.046
+4,Tumbling Dice,The Rolling Stones,Exile On Main Street (2010 Re-Mastered),226333,5,1972-05-12,61,0.615,0.91,11,0.714,1,0.0347,0.5,0.511,0.281,0.77,111.013
+5,Sweet Virginia,The Rolling Stones,Exile On Main Street (2010 Re-Mastered),266560,6,1972-05-12,57,0.477,0.74,9,0.453,1,0.0446,0.502,1.31e-06,0.263,0.56,107.384
+6,Torn And Frayed,The Rolling Stones,Exile On Main Street (2010 Re-Mastered),257240,7,1972-05-12,43,0.454,0.766,2,0.962,1,0.0272,0.664,0.904,0.594,0.776,90.677
+7,Sweet Black Angel,The Rolling Stones,Exile On Main Street (2010 Re-Mastered),177666,8,1972-05-12,41,0.498,0.728,7,0.795,1,0.0373,0.65,0.000172,0.114,0.609,174.33
+8,Loving Cup,The Rolling Stones,Exile On Main Street (2010 Re-Mastered),264266,9,1972-05-12,43,0.471,0.843,7,0.587,1,0.041,0.636,0.0402,0.773,0.632,156.695
+9,Happy,The Rolling Stones,Exile On Main Street (2010 Re-Mastered),184626,10,1972-05-12,43,0.555,0.897,4,0.63,1,0.0293,0.361,0.94,0.536,0.965,131.712
+10,Turd On The Run,The Rolling Stones,Exile On Main Street (2010 Re-Mastered),157173,11,1972-05-12,39,0.517,0.781,2,0.046,1,0.0405,0.65,0.977,0.341,0.742,119.364
+11,Ventilator Blues,The Rolling Stones,Exile On Main Street (2010 Re-Mastered),204573,12,1972-05-12,44,0.618,0.678,0,0.787,1,0.0316,0.6,0.723,0.501,0.79,133.453
+12,I Just Want To See His Face,The Rolling Stones,Exile On Main Street (2010 Re-Mastered),172626,13,1972-05-12,38,0.654,0.542,0,0.506,1,0.0419,0.689,0.584,0.204,0.877,78.015
+13,Let It Loose,The Rolling Stones,Exile On Main Street (2010 Re-Mastered),317173,14,1972-05-12,43,0.352,0.656,5,0.62,1,0.0289,0.869,0.8,0.221,0.363,76.121
+14,All Down The Line,The Rolling Stones,Exile On Main Street (2010 Re-Mastered),229493,15,1972-05-12,43,0.519,0.973,7,1.0,1,0.0562,0.39,0.978,0.784,0.822,140.221
+15,Stop Breaking Down,The Rolling Stones,Exile On Main Street (2010 Re-Mastered),274773,16,1972-05-12,40,0.522,0.891,9,0.956,1,0.0322,0.509,0.908,0.111,0.91,104.411
+16,Shine A Light,The Rolling Stones,Exile On Main Street (2010 Re-Mastered),256826,17,1972-05-12,54,0.365,0.839,0,0.722,1,0.0691,0.522,0.000469,0.292,0.575,81.772
+17,Soul Survivor,The Rolling Stones,Exile On Main Street (2010 Re-Mastered),228840,18,1972-05-12,38,0.337,0.919,5,0.689,1,0.0431,0.183,0.186,0.286,0.525,114.748
+18,Brown Sugar - 2009 Remaster,The Rolling Stones,Sticky Fingers (Remastered),228666,1,1971-04-23,68,0.633,0.934,0,0.841,1,0.0344,0.219,0.00021,0.0592,0.963,128.606
+19,Sway - 2009 Mix,The Rolling Stones,Sticky Fingers (Remastered),232533,2,1971-04-23,48,0.33,0.895,5,0.763,1,0.0399,0.221,0.737,0.408,0.54,144.945
+20,Wild Horses - 2009 Mix,The Rolling Stones,Sticky Fingers (Remastered),341773,3,1971-04-23,70,0.432,0.389,7,0.853,1,0.0255,0.687,0.0107,0.0788,0.158,139.506
+21,Can't You Hear Me Knocking - 2009 Mix,The Rolling Stones,Sticky Fingers (Remastered),436000,4,1971-04-23,64,0.545,0.757,0,0.488,1,0.0396,0.408,0.045,0.16,0.714,152.217
+22,You Gotta Move - 2009 Mix,The Rolling Stones,Sticky Fingers (Remastered),152106,5,1971-04-23,44,0.439,0.422,0,1.0,1,0.0312,0.724,0.203,0.152,0.564,70.283
+23,Bitch - 2009 Mix,The Rolling Stones,Sticky Fingers (Remastered),217093,6,1971-04-23,53,0.655,0.972,7,0.581,1,0.0362,0.257,0.297,0.165,0.973,135.922
+24,I Got The Blues - 2009 Mix,The Rolling Stones,Sticky Fingers (Remastered),233693,7,1971-04-23,46,0.442,0.382,7,0.776,1,0.0317,0.467,0.0216,0.121,0.199,119.947
+25,Sister Morphine - 2009 Mix,The Rolling Stones,Sticky Fingers (Remastered),331626,8,1971-04-23,46,0.395,0.579,9,0.748,0,0.0341,0.0943,0.0925,0.176,0.218,90.443
+26,Dead Flowers - 2009 Mix,The Rolling Stones,Sticky Fingers (Remastered),244533,9,1971-04-23,58,0.54,0.862,2,0.857,1,0.0284,0.33,1.7e-05,0.156,0.931,130.34
+27,Moonlight Mile - 2009 Mix,The Rolling Stones,Sticky Fingers (Remastered),357200,10,1971-04-23,55,0.417,0.5,7,0.69,1,0.0263,0.575,0.0883,0.102,0.241,130.531
+28,Jumpin' Jack Flash - Live,The Rolling Stones,Get Yer Ya-Ya's Out! (Remastered),243133,1,1970-09-04,30,0.44,0.886,4,0.525,1,0.0498,0.0321,0.677,0.978,0.625,137.722
+29,Carol - Live,The Rolling Stones,Get Yer Ya-Ya's Out! (Remastered),226480,2,1970-09-04,27,0.606,0.894,2,0.297,1,0.0396,0.248,0.604,0.989,0.911,138.056
+30,Stray Cat Blues - Live,The Rolling Stones,Get Yer Ya-Ya's Out! (Remastered),227120,3,1970-09-04,26,0.333,0.745,7,0.524,1,0.0759,0.0332,0.278,0.705,0.527,167.045
+31,Love In Vain - Live,The Rolling Stones,Get Yer Ya-Ya's Out! (Remastered),296346,4,1970-09-04,26,0.488,0.351,7,0.77,1,0.0292,0.4,0.261,0.935,0.191,80.2
+32,"Midnight Rambler - Live From Madison Square Garden, New York/1969",The Rolling Stones,Get Yer Ya-Ya's Out! (Remastered),544386,5,1970-09-04,29,0.433,0.704,4,0.744,1,0.0774,0.259,0.346,0.98,0.487,134.759
+33,Sympathy For The Devil - Live,The Rolling Stones,Get Yer Ya-Ya's Out! (Remastered),411866,6,1970-09-04,32,0.587,0.833,9,0.714,1,0.069,0.0167,0.588,0.839,0.748,112.586
+34,Live With Me - Live,The Rolling Stones,Get Yer Ya-Ya's Out! (Remastered),182613,7,1970-09-04,24,0.533,0.863,2,0.763,1,0.0354,0.0139,0.0977,0.586,0.751,139.993
+35,Little Queenie - Live,The Rolling Stones,Get Yer Ya-Ya's Out! (Remastered),273266,8,1970-09-04,25,0.495,0.811,9,0.852,1,0.0392,0.151,0.785,0.66,0.964,126.69
+36,Honky Tonk Women - Live,The Rolling Stones,Get Yer Ya-Ya's Out! (Remastered),214293,9,1970-09-04,26,0.412,0.787,7,0.724,1,0.0505,0.0398,0.49,0.735,0.802,114.076
+37,Street Fighting Man - Live,The Rolling Stones,Get Yer Ya-Ya's Out! (Remastered),244413,10,1970-09-04,24,0.273,0.866,11,0.772,1,0.0346,0.000129,0.784,0.962,0.513,134.906
+38,Gimme Shelter,The Rolling Stones,Let It Bleed,270760,1,1969-12-05,33,0.633,0.649,1,0.494,0,0.0311,0.464,0.0363,0.17,0.457,118.629
+39,Love In Vain,The Rolling Stones,Let It Bleed,259106,2,1969-12-05,13,0.378,0.467,10,0.703,1,0.0358,0.249,0.006,0.114,0.272,180.225
+40,Country Honk,The Rolling Stones,Let It Bleed,187466,3,1969-12-05,13,0.53,0.763,7,0.921,1,0.0509,0.627,1.54e-05,0.276,0.872,120.97
+41,Live With Me,The Rolling Stones,Let It Bleed,213133,4,1969-12-05,11,0.673,0.632,7,0.325,1,0.0335,0.00646,0.035,0.0808,0.942,129.591
+42,Let It Bleed,The Rolling Stones,Let It Bleed,327866,5,1969-12-05,14,0.557,0.688,0,0.958,1,0.0291,0.434,0.00106,0.277,0.86,116.229
+43,Midnight Rambler,The Rolling Stones,Let It Bleed,412760,6,1969-12-05,15,0.489,0.658,4,0.777,1,0.0866,0.776,3.42e-06,0.243,0.551,129.006
+44,You Got The Silver,The Rolling Stones,Let It Bleed,170400,7,1969-12-05,12,0.477,0.378,5,0.571,1,0.0422,0.741,0.0237,0.139,0.551,139.45
+45,Monkey Man,The Rolling Stones,Let It Bleed,251466,8,1969-12-05,14,0.414,0.772,6,0.957,1,0.035,0.517,0.0634,0.0849,0.533,102.113
+46,You Can't Always Get What You Want,The Rolling Stones,Let It Bleed,448760,9,1969-12-05,29,0.313,0.625,0,0.435,1,0.0651,0.652,6.4e-05,0.258,0.487,84.044
+47,Sympathy For The Devil,The Rolling Stones,Beggars Banquet,377760,1,1968-12-06,47,0.658,0.675,9,0.756,1,0.242,0.604,0.0,0.0428,0.587,115.574
+48,No Expectations,The Rolling Stones,Beggars Banquet,235933,2,1968-12-06,13,0.473,0.274,9,0.833,1,0.027,0.588,0.0124,0.125,0.281,92.424
+49,Dear Doctor,The Rolling Stones,Beggars Banquet,201600,3,1968-12-06,8,0.597,0.449,9,0.371,1,0.0318,0.149,0.0,0.204,0.461,126.164
+50,Parachute Woman,The Rolling Stones,Beggars Banquet,139933,4,1968-12-06,10,0.526,0.601,2,0.0,1,0.0435,0.438,0.259,0.099,0.858,113.666
+51,Jigsaw Puzzle,The Rolling Stones,Beggars Banquet,365426,5,1968-12-06,9,0.4,0.645,4,0.807,1,0.0435,0.328,5.63e-06,0.0653,0.747,114.004
+52,Street Fighting Man,The Rolling Stones,Beggars Banquet,194773,6,1968-12-06,21,0.563,0.756,0,0.791,1,0.0314,0.0117,0.00889,0.215,0.751,128.123
+53,Prodigal Son,The Rolling Stones,Beggars Banquet,170573,7,1968-12-06,8,0.613,0.556,1,0.186,0,0.0575,0.544,0.00281,0.128,0.083,108.167
+54,Stray Cat Blues,The Rolling Stones,Beggars Banquet,277133,8,1968-12-06,11,0.344,0.795,2,0.639,1,0.0476,0.0167,0.00592,0.0849,0.401,104.944
+55,Factory Girl,The Rolling Stones,Beggars Banquet,128226,9,1968-12-06,7,0.481,0.408,2,0.765,1,0.0365,0.408,0.0,0.132,0.472,150.476
+56,Salt Of The Earth,The Rolling Stones,Beggars Banquet,287466,10,1968-12-06,9,0.372,0.786,4,0.701,1,0.046,0.299,4.54e-06,0.282,0.379,97.394
+57,Sing This All Together,The Rolling Stones,Their Satanic Majesties Request,227533,1,1967-12-08,7,0.582,0.721,0,0.852,1,0.0475,0.756,0.000888,0.5,0.549,121.929
+58,Citadel,The Rolling Stones,Their Satanic Majesties Request,170826,2,1967-12-08,7,0.298,0.59,9,0.951,1,0.0396,0.0484,5.77e-05,0.0964,0.61,114.813
+59,In Another Land,The Rolling Stones,Their Satanic Majesties Request,193573,3,1967-12-08,8,0.309,0.515,0,0.665,1,0.0373,0.528,0.000421,0.398,0.367,99.842
+60,2000 Man,The Rolling Stones,Their Satanic Majesties Request,187706,4,1967-12-08,9,0.452,0.485,9,0.541,1,0.0445,0.0161,0.0597,0.442,0.52,122.318
+61,Sing This All Together (See What Happens),The Rolling Stones,Their Satanic Majesties Request,513600,5,1967-12-08,5,0.486,0.829,8,0.659,1,0.0973,0.784,0.262,0.129,0.191,126.218
+62,She's A Rainbow - Full Version / With Intro,The Rolling Stones,Their Satanic Majesties Request,275160,6,1967-12-08,21,0.458,0.798,10,0.875,1,0.042,0.488,0.0214,0.488,0.533,109.143
+63,The Lantern,The Rolling Stones,Their Satanic Majesties Request,262906,7,1967-12-08,6,0.377,0.354,4,0.764,1,0.0326,0.566,0.00939,0.0831,0.263,98.194
+64,Gomper,The Rolling Stones,Their Satanic Majesties Request,308840,8,1967-12-08,5,0.369,0.535,2,0.598,1,0.0359,0.748,0.609,0.158,0.263,127.239
+65,2000 Light Years From Home,The Rolling Stones,Their Satanic Majesties Request,284960,9,1967-12-08,11,0.325,0.63,4,0.0,0,0.0475,0.00256,0.00611,0.14,0.291,122.307
+66,On With The Show,The Rolling Stones,Their Satanic Majesties Request,221226,10,1967-12-08,5,0.515,0.859,0,0.668,1,0.18,0.674,4.55e-06,0.389,0.65,114.361
+67,Ruby Tuesday,The Rolling Stones,Flowers,196706,1,1967-06-26,19,0.509,0.553,0,0.693,1,0.0289,0.823,1.81e-06,0.216,0.502,104.48
+68,"Have You Seen Your Mother, Baby, Standing In The Shadow? - Mono Version",The Rolling Stones,Flowers,154013,2,1967-06-26,15,0.387,0.84,7,0.992,1,0.0374,0.254,0.77,0.237,0.468,100.395
+69,Let's Spend The Night Together,The Rolling Stones,Flowers,215693,3,1967-06-26,18,0.558,0.795,7,1.0,1,0.0521,0.678,0.0,0.238,0.562,140.823
+70,Lady Jane - Stereo Version,The Rolling Stones,Flowers,187466,4,1967-06-26,10,0.603,0.303,7,0.987,1,0.0323,0.52,9.61e-05,0.0913,0.322,103.131
+71,Out Of Time - Edit Version,The Rolling Stones,Flowers,221240,5,1967-06-26,15,0.663,0.709,11,0.485,0,0.0896,0.55,0.0,0.0856,0.61,125.503
+72,My Girl,The Rolling Stones,Flowers,157933,6,1967-06-26,21,0.588,0.576,1,0.0,1,0.0372,0.687,0.114,0.312,0.752,110.272
+73,Back Street Girl,The Rolling Stones,Flowers,206773,7,1967-06-26,7,0.521,0.246,7,1.0,1,0.0269,0.0172,0.0,0.0967,0.521,77.352
+74,Please Go Home,The Rolling Stones,Flowers,197200,8,1967-06-26,5,0.491,0.696,9,0.762,1,0.0453,0.562,0.000476,0.156,0.75,112.003
+75,Mother's Little Helper,The Rolling Stones,Flowers,166266,9,1967-06-26,14,0.6,0.619,4,0.643,0,0.0283,0.062,4.57e-05,0.323,0.716,101.106
+76,Take It Or Leave It,The Rolling Stones,Flowers,166106,10,1967-06-26,5,0.645,0.533,5,0.916,0,0.0276,0.155,5.11e-05,0.284,0.781,104.389
+77,Ride On Baby,The Rolling Stones,Flowers,172533,11,1967-06-26,6,0.555,0.663,7,0.675,1,0.0296,0.393,0.0,0.234,0.851,131.221
+78,Sittin' On A Fence,The Rolling Stones,Flowers,182800,12,1967-06-26,7,0.63,0.454,1,1.0,1,0.0244,0.251,0.000112,0.124,0.672,101.591
+79,Yesterday's Papers,The Rolling Stones,Between The Buttons,123666,1,1967-01-20,2,0.601,0.565,0,0.734,1,0.0279,0.148,0.0,0.246,0.259,139.798
+80,My Obsession,The Rolling Stones,Between The Buttons,196666,2,1967-01-20,1,0.646,0.807,4,0.482,1,0.122,0.271,1.02e-06,0.0417,0.533,144.095
+81,Back Street Girl,The Rolling Stones,Between The Buttons,206973,3,1967-01-20,2,0.412,0.242,7,1.0,1,0.0275,0.0189,0.0,0.0938,0.548,154.489
+82,Connection,The Rolling Stones,Between The Buttons,127866,4,1967-01-20,3,0.65,0.679,0,0.989,1,0.0473,0.159,2.42e-05,0.207,0.567,86.585
+83,She Smiled Sweetly,The Rolling Stones,Between The Buttons,164733,5,1967-01-20,3,0.337,0.3,0,0.763,1,0.132,0.091,0.00469,0.12,0.21,191.37
+84,"Cool, Calm And Collected",The Rolling Stones,Between The Buttons,258200,6,1967-01-20,2,0.551,0.835,7,0.0,0,0.0477,0.346,0.0431,0.078,0.697,107.751
+85,Please Go Home,The Rolling Stones,Between The Buttons,137533,7,1967-01-20,1,0.689,0.683,0,0.671,1,0.0372,0.433,1.06e-05,0.1,0.8,117.494
+86,All Sold Out,The Rolling Stones,Between The Buttons,197306,8,1967-01-20,1,0.497,0.751,9,0.745,1,0.0444,0.568,0.000227,0.217,0.734,112.025
+87,Who's Been Sleeping Here?,The Rolling Stones,Between The Buttons,235240,9,1967-01-20,2,0.536,0.617,5,0.883,1,0.0364,0.196,2.27e-06,0.118,0.644,115.908
+88,Complicated,The Rolling Stones,Between The Buttons,194866,10,1967-01-20,3,0.633,0.683,1,0.324,0,0.0365,0.154,5.27e-05,0.105,0.83,146.852
+89,Miss Amanda Jones,The Rolling Stones,Between The Buttons,166800,11,1967-01-20,2,0.392,0.826,10,0.73,1,0.0622,0.164,0.0,0.16,0.784,159.009
+90,Something Happened To Me Yesterday,The Rolling Stones,Between The Buttons,295040,12,1967-01-20,2,0.641,0.525,7,0.548,1,0.108,0.763,0.0,0.53,0.565,143.883
+91,"Paint It, Black",The Rolling Stones,Aftermath,202266,1,1966-04-15,79,0.464,0.795,1,0.555,1,0.0926,0.0493,0.00244,0.399,0.612,158.691
+92,Stupid Girl,The Rolling Stones,Aftermath,175386,2,1966-04-15,41,0.694,0.802,11,0.249,1,0.0577,0.173,0.486,0.152,0.903,130.879
+93,Lady Jane - Mono Version,The Rolling Stones,Aftermath,188080,3,1966-04-15,45,0.6,0.303,7,0.98,1,0.0318,0.516,0.000123,0.0832,0.31,102.998
+94,Under My Thumb,The Rolling Stones,Aftermath,221533,4,1966-04-15,64,0.732,0.494,6,0.372,0,0.0406,0.299,0.205,0.0919,0.799,126.986
+95,Doncha Bother Me,The Rolling Stones,Aftermath,161186,5,1966-04-15,38,0.544,0.812,9,0.303,1,0.0592,0.516,0.0031,0.11,0.783,123.269
+96,Think,The Rolling Stones,Aftermath,189453,6,1966-04-15,37,0.612,0.603,1,0.295,0,0.0438,0.00507,0.134,0.18,0.606,133.038
+97,Flight 505,The Rolling Stones,Aftermath,207093,7,1966-04-15,36,0.564,0.664,5,0.57,1,0.0487,0.0577,0.0154,0.213,0.868,134.068
+98,High And Dry,The Rolling Stones,Aftermath,188000,8,1966-04-15,35,0.552,0.489,5,0.421,1,0.0417,0.0492,0.00725,0.169,0.754,114.052
+99,It's Not Easy,The Rolling Stones,Aftermath,176266,9,1966-04-15,35,0.644,0.824,3,0.609,1,0.0512,0.686,3.06e-05,0.577,0.822,135.595
+100,I Am Waiting,The Rolling Stones,Aftermath,190933,10,1966-04-15,41,0.63,0.396,0,0.764,1,0.039,0.572,2.65e-05,0.083,0.604,88.699
+101,Going Home,The Rolling Stones,Aftermath,673266,11,1966-04-15,36,0.5,0.519,9,0.632,1,0.0531,0.0677,0.0759,0.223,0.472,130.685
+102,She Said Yeah - Remastered 2002,The Rolling Stones,December’s Children (And Everybody’s),94013,1,1965-12-04,29,0.401,0.858,4,0.813,1,0.067,0.0289,0.031,0.0571,0.8,111.303
+103,Talkin' About You - Remastered 2002,The Rolling Stones,December’s Children (And Everybody’s),150826,2,1965-12-04,25,0.667,0.643,9,0.966,1,0.0365,0.101,0.000433,0.0496,0.855,120.274
+104,You Better Move On,The Rolling Stones,December’s Children (And Everybody’s),159493,3,1965-12-04,32,0.616,0.675,4,0.945,1,0.0289,0.452,0.0,0.221,0.757,115.881
+105,Look What You've Done - Mono Version,The Rolling Stones,December’s Children (And Everybody’s),135733,4,1965-12-04,24,0.567,0.566,7,0.905,1,0.0492,0.499,0.262,0.554,0.764,98.307
+106,The Singer Not The Song - Mono Version,The Rolling Stones,December’s Children (And Everybody’s),142186,5,1965-12-04,27,0.719,0.574,0,0.354,1,0.0298,0.0506,0.000337,0.0933,0.862,110.769
+107,Route 66 - Live,The Rolling Stones,December’s Children (And Everybody’s),159280,6,1965-12-04,24,0.38,0.965,2,0.26,1,0.0744,0.0271,0.895,0.397,0.483,85.183
+108,Get Off Of My Cloud - Mono Version,The Rolling Stones,December’s Children (And Everybody’s),175080,7,1965-12-04,55,0.579,0.877,4,0.577,1,0.0488,0.0289,0.571,0.0656,0.9,126.336
+109,I'm Free - Mono Version,The Rolling Stones,December’s Children (And Everybody’s),143133,8,1965-12-04,34,0.638,0.462,0,1.0,1,0.031,0.209,0.0887,0.335,0.565,118.728
+110,As Tears Go By - Mono Version,The Rolling Stones,December’s Children (And Everybody’s),165213,9,1965-12-04,54,0.331,0.277,7,0.597,1,0.0295,0.723,0.00263,0.181,0.366,112.78
+111,Gotta Get Away - Mono Version,The Rolling Stones,December’s Children (And Everybody’s),126653,10,1965-12-04,26,0.669,0.572,9,0.801,1,0.037,0.0666,0.578,0.156,0.701,112.932
+112,Blue Turns To Grey,The Rolling Stones,December’s Children (And Everybody’s),148813,11,1965-12-04,27,0.581,0.673,0,0.772,1,0.0282,0.2,0.0127,0.165,0.736,112.517
+113,I'm Moving On - Live,The Rolling Stones,December’s Children (And Everybody’s),133720,12,1965-12-04,21,0.188,0.871,4,0.332,1,0.0573,0.00646,0.779,0.301,0.535,169.661
+114,Everybody Needs Somebody To Love - Version 2 - short,The Rolling Stones,Now!,177866,1,1965-02-13,3,0.571,0.831,5,0.256,1,0.0949,0.16,1.85e-06,0.0937,0.581,174.385
+115,Down Home Girl,The Rolling Stones,Now!,251733,2,1965-02-13,3,0.662,0.777,0,0.904,1,0.0269,0.633,0.679,0.0903,0.822,115.786
+116,You Can't Catch Me,The Rolling Stones,Now!,219466,3,1965-02-13,3,0.648,0.904,0,0.837,1,0.0471,0.0624,0.00351,0.345,0.846,104.223
+117,Heart Of Stone - Stereo Version / Remastered 2002,The Rolling Stones,Now!,169066,4,1965-02-13,13,0.378,0.586,0,0.337,1,0.0363,0.185,0.0193,0.0848,0.557,186.8
+118,What A Shame - Mono Version,The Rolling Stones,Now!,185000,5,1965-02-13,3,0.638,0.518,7,0.699,1,0.0283,0.263,0.14,0.153,0.912,127.093
+119,Mona (I Need You Baby),The Rolling Stones,Now!,214706,6,1965-02-13,3,0.694,0.646,1,0.828,1,0.132,0.0718,0.000177,0.0924,0.421,98.78
+120,Down The Road Apiece,The Rolling Stones,Now!,175200,7,1965-02-13,3,0.333,0.725,2,0.551,1,0.0422,0.541,0.00162,0.0551,0.938,178.012
+121,Off The Hook - Mono Version,The Rolling Stones,Now!,154266,8,1965-02-13,2,0.615,0.615,9,0.572,1,0.0293,0.155,8.46e-06,0.138,0.871,76.613
+122,Pain In My Heart,The Rolling Stones,Now!,131533,9,1965-02-13,3,0.48,0.586,7,0.556,1,0.0398,0.565,0.77,0.124,0.758,177.038
+123,Oh Baby (We Got A Good Thing Goin') - Remastered 2002,The Rolling Stones,Now!,128039,10,1965-02-13,2,0.637,0.756,4,0.585,1,0.0301,0.494,0.589,0.853,0.966,141.535
+124,Little Red Rooster - Mono Version,The Rolling Stones,Now!,185760,11,1965-02-13,7,0.722,0.435,7,0.771,1,0.0443,0.0616,0.0492,0.0963,0.675,109.356
+125,"Surprise, Surprise",The Rolling Stones,Now!,151733,12,1965-02-13,4,0.734,0.867,4,0.377,1,0.0715,0.0278,3.05e-05,0.127,0.929,107.712
+126,Around And Around,The Rolling Stones,12 X 5,183146,1,1964-10-17,36,0.317,0.607,2,0.16,1,0.0647,0.456,5.36e-05,0.288,0.747,185.991
+127,Confessin' The Blues,The Rolling Stones,12 X 5,167226,2,1964-10-17,35,0.534,0.52,0,0.833,1,0.0366,0.145,0.000466,0.368,0.816,116.855
+128,Empty Heart,The Rolling Stones,12 X 5,156946,3,1964-10-17,28,0.504,0.678,2,0.544,1,0.0367,0.00865,0.0,0.0805,0.953,140.618
+129,Time Is On My Side - Mono Version / Organ Intro,The Rolling Stones,12 X 5,172693,4,1964-10-17,43,0.229,0.83,4,0.53,1,0.139,0.343,0.0,0.0712,0.423,216.304
+130,"Good Times, Bad Times - Mono Version",The Rolling Stones,12 X 5,150160,5,1964-10-17,29,0.438,0.517,0,0.122,1,0.0431,0.0791,0.00566,0.108,0.702,196.817
+131,It's All Over Now - Mono Version,The Rolling Stones,12 X 5,206440,6,1964-10-17,45,0.603,0.689,0,0.679,1,0.0304,0.0239,3.27e-06,0.33,0.761,99.088
+132,2120 South Michigan Avenue - Long Version,The Rolling Stones,12 X 5,218466,7,1964-10-17,32,0.609,0.585,0,0.967,1,0.0305,0.00137,0.876,0.0819,0.825,147.176
+133,Under The Boardwalk,The Rolling Stones,12 X 5,166520,8,1964-10-17,36,0.703,0.492,4,0.436,1,0.0349,0.644,0.0,0.265,0.593,119.034
+134,Congratulations - Mono Version,The Rolling Stones,12 X 5,148773,9,1964-10-17,29,0.394,0.562,11,0.189,0,0.0914,0.16,0.0211,0.187,0.66,197.401
+135,Grown Up Wrong,The Rolling Stones,12 X 5,125533,10,1964-10-17,25,0.525,0.55,1,0.43,1,0.0397,0.123,5.83e-05,0.273,0.336,159.608
+136,If You Need Me,The Rolling Stones,12 X 5,124200,11,1964-10-17,30,0.516,0.535,7,0.751,1,0.0256,0.429,0.000124,0.13,0.665,98.574
+137,Susie Q,The Rolling Stones,12 X 5,110986,12,1964-10-17,35,0.506,0.762,9,0.978,1,0.0345,0.0333,0.69,0.211,0.967,80.84
+138,Not Fade Away - Mono Version,The Rolling Stones,England’s Newest Hitmakers,107720,1,1964-05-30,40,0.75,0.826,4,0.635,0,0.0472,0.00661,0.63,0.153,0.896,113.294
+139,Route 66,The Rolling Stones,England’s Newest Hitmakers,140213,2,1964-05-30,26,0.672,0.715,2,0.803,1,0.072,0.267,0.000293,0.0878,0.959,85.108
+140,I Just Want To Make Love To You - Mono Version,The Rolling Stones,England’s Newest Hitmakers,137666,3,1964-05-30,20,0.658,0.822,0,0.119,1,0.1,0.222,0.798,0.359,0.585,126.799
+141,Honest I Do,The Rolling Stones,England’s Newest Hitmakers,129786,4,1964-05-30,18,0.653,0.377,8,0.609,0,0.0857,0.153,0.693,0.213,0.447,87.527
+142,Now I've Got A Witness,The Rolling Stones,England’s Newest Hitmakers,151813,5,1964-05-30,18,0.668,0.69,4,0.665,1,0.0287,0.038,0.909,0.237,0.96,97.697
+143,Little By Little - Mono Version,The Rolling Stones,England’s Newest Hitmakers,159706,6,1964-05-30,18,0.475,0.725,9,0.628,1,0.0537,0.0147,0.149,0.245,0.911,87.655
+144,I'm A King Bee,The Rolling Stones,England’s Newest Hitmakers,156133,7,1964-05-30,20,0.887,0.555,4,0.918,0,0.0643,0.0145,0.00612,0.0584,0.889,105.415
+145,Carol,The Rolling Stones,England’s Newest Hitmakers,154066,8,1964-05-30,24,0.585,0.94,8,0.324,1,0.0407,0.154,0.0065,0.325,0.969,88.43
+146,Tell Me,The Rolling Stones,England’s Newest Hitmakers,245346,9,1964-05-30,20,0.506,0.705,6,0.584,1,0.086,0.063,1.67e-06,0.568,0.469,121.994
+147,Can I Get A Witness,The Rolling Stones,England’s Newest Hitmakers,176053,10,1964-05-30,18,0.791,0.779,7,0.931,1,0.0681,0.363,0.0,0.0742,0.829,97.058
+148,You Can Make It If You Try,The Rolling Stones,England’s Newest Hitmakers,121666,11,1964-05-30,16,0.698,0.537,0,0.879,1,0.0582,0.254,2.94e-05,0.172,0.553,102.733
+149,Walking The Dog,The Rolling Stones,England’s Newest Hitmakers,189186,12,1964-05-30,18,0.728,0.933,9,0.298,1,0.036,0.386,0.0497,0.109,0.968,125.318
+150,Route 66,The Rolling Stones,The Rolling Stones,140400,1,1964-04-16,51,0.671,0.725,2,0.769,1,0.065,0.296,0.00022,0.0889,0.956,85.27
+151,I Just Want To Make Love To You - Mono Version,The Rolling Stones,The Rolling Stones,137666,2,1964-04-16,35,0.657,0.825,0,0.269,1,0.098,0.219,0.845,0.354,0.582,126.817
+152,Honest I Do,The Rolling Stones,The Rolling Stones,129800,3,1964-04-16,32,0.646,0.374,8,0.676,0,0.103,0.151,0.651,0.208,0.475,87.593
+153,Mona (I Need You Baby),The Rolling Stones,The Rolling Stones,214693,4,1964-04-16,35,0.695,0.684,1,0.803,1,0.133,0.0688,0.000257,0.0981,0.427,99.014
+154,Now I've Got A Witness,The Rolling Stones,The Rolling Stones,151813,5,1964-04-16,31,0.666,0.682,4,0.671,1,0.0298,0.0375,0.912,0.256,0.953,97.849
+155,Little By Little - Mono Version,The Rolling Stones,The Rolling Stones,159706,6,1964-04-16,34,0.482,0.719,9,0.577,1,0.0558,0.0146,0.13,0.155,0.909,87.743
+156,I'm A King Bee,The Rolling Stones,The Rolling Stones,156146,7,1964-04-16,35,0.886,0.565,11,0.362,0,0.0629,0.0149,0.00378,0.0565,0.896,105.423
+157,Carol,The Rolling Stones,The Rolling Stones,154080,8,1964-04-16,40,0.466,0.932,5,0.431,0,0.0429,0.157,0.00617,0.324,0.967,177.34
+158,Tell Me,The Rolling Stones,The Rolling Stones,245266,9,1964-04-16,38,0.509,0.706,6,0.6,1,0.0843,0.0576,1.69e-06,0.516,0.446,122.015
+159,Can I Get A Witness,The Rolling Stones,The Rolling Stones,176080,10,1964-04-16,31,0.79,0.774,7,0.931,1,0.072,0.371,0.0,0.0669,0.835,97.035
+160,You Can Make It If You Try,The Rolling Stones,The Rolling Stones,121680,11,1964-04-16,28,0.7,0.546,0,0.866,1,0.0622,0.217,7.02e-05,0.166,0.532,102.634
+161,Walking The Dog,The Rolling Stones,The Rolling Stones,189186,12,1964-04-16,39,0.727,0.934,2,0.0,1,0.0359,0.383,0.0685,0.0965,0.969,125.275
+162,Don't Go Near The Water - Remastered 2009,The Beach Boys,Surf's Up,161813,1,1971-08-30,32,0.522,0.291,3,0.295,1,0.0367,0.685,0.0673,0.114,0.429,116.582
+163,Long Promised Road - Remastered 2009,The Beach Boys,Surf's Up,212573,2,1971-08-30,41,0.581,0.394,0,0.167,1,0.0301,0.563,0.000145,0.428,0.486,122.448
+164,Take A Load Off Your Feet - Remastered 2009,The Beach Boys,Surf's Up,151933,3,1971-08-30,30,0.51,0.212,6,0.293,1,0.0668,0.0274,4.27e-05,0.0777,0.447,206.088
+165,Disney Girls (1957) - Remastered 2009,The Beach Boys,Surf's Up,250960,4,1971-08-30,37,0.489,0.211,6,0.719,1,0.0316,0.452,0.264,0.261,0.184,83.946
+166,Student Demonstration Time - Remastered 2009,The Beach Boys,Surf's Up,240213,5,1971-08-30,29,0.462,0.555,2,0.194,1,0.038,0.0215,3.96e-05,0.338,0.885,143.736
+167,Feel Flows - Remastered 2009,The Beach Boys,Surf's Up,288600,6,1971-08-30,46,0.502,0.285,7,0.225,0,0.0265,0.667,0.000105,0.346,0.35,94.311
+168,Lookin' At Tomorrow (A Welfare Song) - Remastered 2009,The Beach Boys,Surf's Up,118826,7,1971-08-30,29,0.493,0.153,5,0.518,0,0.0613,0.801,2.24e-05,0.157,0.134,135.884
+169,A Day In The Life Of A Tree - Remastered 2009,The Beach Boys,Surf's Up,188826,8,1971-08-30,30,0.267,0.0994,1,0.769,1,0.0355,0.763,0.0625,0.0696,0.036,103.572
+170,'Til I Die - Remastered 2009,The Beach Boys,Surf's Up,153240,9,1971-08-30,42,0.321,0.294,7,0.44,1,0.0286,0.297,0.000561,0.295,0.18,172.859
+171,Surf's Up - Remastered 2009,The Beach Boys,Surf's Up,253760,10,1971-08-30,41,0.366,0.193,0,0.439,0,0.0306,0.571,1.86e-06,0.093,0.287,100.274
+172,Slip On Through - Remastered 2009,The Beach Boys,Sunflower,139333,1,1970-08-31,34,0.599,0.532,2,0.0,1,0.0381,0.0415,0.0,0.102,0.547,108.225
+173,This Whole World - Remastered 2009,The Beach Boys,Sunflower,118400,2,1970-08-31,29,0.515,0.578,5,0.06,1,0.036,0.283,0.0,0.248,0.543,117.6
+174,Add Some Music To Your Day - Remastered 2009,The Beach Boys,Sunflower,215893,3,1970-08-31,30,0.513,0.35,9,0.551,1,0.0267,0.0294,0.0,0.0792,0.49,108.132
+175,Got To Know The Woman - Remastered 2009,The Beach Boys,Sunflower,163426,4,1970-08-31,24,0.593,0.554,0,0.647,1,0.0293,0.235,0.927,0.549,0.824,115.852
+176,Deirdre - Remastered 2009,The Beach Boys,Sunflower,209573,5,1970-08-31,31,0.579,0.49,11,0.415,0,0.0332,0.0907,0.0,0.297,0.648,108.691
+177,It's About Time - Remastered 2009,The Beach Boys,Sunflower,177946,6,1970-08-31,25,0.39,0.607,5,0.757,1,0.0384,0.421,4.17e-05,0.243,0.213,167.211
+178,Tears In The Morning - Remastered 2009,The Beach Boys,Sunflower,251333,7,1970-08-31,36,0.377,0.358,2,0.245,1,0.0372,0.714,2.58e-05,0.288,0.242,128.151
+179,All I Wanna Do - Remastered 2009,The Beach Boys,Sunflower,156466,8,1970-08-31,53,0.447,0.416,9,0.551,0,0.0258,0.0716,0.00426,0.125,0.295,103.068
+180,Forever - Remastered 2009,The Beach Boys,Sunflower,162293,9,1970-08-31,51,0.432,0.35,0,0.187,0,0.0266,0.672,0.000847,0.0932,0.263,73.411
+181,Our Sweet Love - Remastered 2009,The Beach Boys,Sunflower,160933,10,1970-08-31,27,0.439,0.421,9,0.63,1,0.0302,0.0023,0.0,0.188,0.0945,113.464
+182,At My Window - Remastered 2009,The Beach Boys,Sunflower,152093,11,1970-08-31,25,0.492,0.37,4,0.623,1,0.0271,0.418,0.000262,0.0729,0.732,109.086
+183,"Cool, Cool Water - Remastered 2009",The Beach Boys,Sunflower,303293,12,1970-08-31,28,0.364,0.266,5,0.722,1,0.0311,0.401,0.00128,0.202,0.127,112.86
+184,Do It Again - Remastered 2001,The Beach Boys,20/20 (Remastered),146373,1,1969-02-10,45,0.725,0.577,3,0.951,1,0.0336,0.609,0.00112,0.242,0.826,117.691
+185,I Can Hear Music,The Beach Boys,20/20 (Remastered),157293,2,1969-02-10,53,0.511,0.603,2,1.0,1,0.028,0.0385,1.67e-06,0.142,0.685,128.336
+186,Bluebirds Over The Mountain - Remastered,The Beach Boys,20/20 (Remastered),173733,3,1969-02-10,24,0.665,0.704,2,0.48,1,0.0333,0.155,0.000515,0.615,0.963,127.477
+187,Be With Me - Remastered 2001,The Beach Boys,20/20 (Remastered),189840,4,1969-02-10,22,0.314,0.31,10,0.127,1,0.0326,0.497,0.056,0.229,0.231,131.46
+188,All I Want To Do - Remastered 2001,The Beach Boys,20/20 (Remastered),121560,5,1969-02-10,22,0.506,0.576,7,0.376,1,0.0299,0.00352,0.0217,0.0925,0.727,141.564
+189,The Nearest Faraway Place - Remastered 2001,The Beach Boys,20/20 (Remastered),160866,6,1969-02-10,23,0.23,0.223,11,0.182,1,0.0325,0.968,0.895,0.121,0.0391,170.067
+190,Cotton Fields (The Cotton Song) - Remastered 2001,The Beach Boys,20/20 (Remastered),143066,7,1969-02-10,41,0.597,0.555,8,0.843,1,0.0285,0.486,0.00174,0.255,0.608,129.098
+191,I Went To Sleep - Remastered 2001,The Beach Boys,20/20 (Remastered),98545,8,1969-02-10,23,0.517,0.205,2,0.568,1,0.0295,0.958,0.344,0.16,0.313,123.453
+192,Time To Get Alone - Remastered 2001,The Beach Boys,20/20 (Remastered),158093,9,1969-02-10,27,0.449,0.311,7,0.511,1,0.0288,0.676,0.00284,0.0942,0.444,126.177
+193,Never Learn Not To Love - Remastered 2001,The Beach Boys,20/20 (Remastered),153466,10,1969-02-10,38,0.308,0.51,9,0.023,1,0.0291,0.228,0.000131,0.105,0.332,142.639
+194,Our Prayer - Remastered 2001,The Beach Boys,20/20 (Remastered),70266,11,1969-02-10,27,0.224,0.0687,10,0.731,0,0.0293,0.985,0.865,0.176,0.166,87.706
+195,Cabinessence - Remastered 2001,The Beach Boys,20/20 (Remastered),215133,12,1969-02-10,29,0.29,0.242,5,0.835,1,0.0345,0.25,0.627,0.0922,0.2,94.232
+196,Meant For You - Remastered 2001,The Beach Boys,Friends (Remastered),39973,1,1968-06-24,36,0.425,0.0989,1,0.667,1,0.0469,0.893,7.54e-06,0.138,0.378,91.402
+197,Friends - Remastered 2001,The Beach Boys,Friends (Remastered),153026,2,1968-06-24,29,0.544,0.362,2,0.844,1,0.0276,0.31,6.2e-05,0.11,0.642,125.737
+198,Wake The World - Remastered 2001,The Beach Boys,Friends (Remastered),90533,3,1968-06-24,26,0.559,0.265,9,0.102,1,0.0289,0.746,0.0,0.104,0.252,110.722
+199,Be Here In The Mornin' - Remastered 2001,The Beach Boys,Friends (Remastered),138019,4,1968-06-24,25,0.609,0.311,9,0.403,1,0.0302,0.13,0.00355,0.116,0.363,133.278
+200,When A Man Needs A Woman - Remastered 2001,The Beach Boys,Friends (Remastered),128127,5,1968-06-24,23,0.726,0.337,6,0.422,1,0.0409,0.467,0.000289,0.125,0.225,120.111
+201,Passing By - Remastered 2001,The Beach Boys,Friends (Remastered),146053,6,1968-06-24,25,0.6,0.333,3,0.0,1,0.0307,0.926,0.884,0.132,0.624,115.419
+202,"Anna Lee, The Healer - Remastered 2001",The Beach Boys,Friends (Remastered),113840,7,1968-06-24,25,0.603,0.259,4,0.78,1,0.036,0.802,4.48e-05,0.117,0.575,138.443
+203,Little Bird - Remastered 2001,The Beach Boys,Friends (Remastered),119893,8,1968-06-24,37,0.452,0.33,5,0.538,1,0.0384,0.121,0.0275,0.0978,0.197,164.89
+204,Be Still - Remastered 2001,The Beach Boys,Friends (Remastered),84866,9,1968-06-24,23,0.391,0.0875,8,0.937,1,0.0508,0.925,7.79e-06,0.108,0.039,131.156
+205,Busy Doin' Nothin' - Remastered 2001,The Beach Boys,Friends (Remastered),185973,10,1968-06-24,31,0.703,0.447,1,0.0,1,0.0329,0.335,4.27e-05,0.169,0.691,118.086
+206,Diamond Head - Remastered 2001,The Beach Boys,Friends (Remastered),219066,11,1968-06-24,26,0.473,0.455,0,0.422,1,0.0452,0.916,0.904,0.514,0.328,112.665
+207,Transcendental Meditation - Remastered 2001,The Beach Boys,Friends (Remastered),112493,12,1968-06-24,20,0.51,0.468,1,0.733,1,0.0257,0.0304,0.0132,0.124,0.564,135.612
+208,Wild Honey - Remastered,The Beach Boys,Wild Honey (Remastered),160000,1,1967-12-18,37,0.535,0.596,7,0.84,1,0.0304,0.0857,0.000372,0.334,0.76,121.392
+209,Aren't You Glad - Remastered 2001,The Beach Boys,Wild Honey (Remastered),138400,2,1967-12-18,28,0.737,0.371,7,0.743,1,0.0389,0.764,0.486,0.141,0.532,136.534
+210,I Was Made To Love Her - Remastered 2001,The Beach Boys,Wild Honey (Remastered),127000,3,1967-12-18,29,0.515,0.64,10,0.148,1,0.0269,0.0165,0.0,0.251,0.948,100.11
+211,Country Air - Remastered 2001,The Beach Boys,Wild Honey (Remastered),142333,4,1967-12-18,25,0.342,0.304,2,0.627,1,0.031,0.167,0.155,0.26,0.156,172.77
+212,A Thing Or Two - Remastered 2001,The Beach Boys,Wild Honey (Remastered),162840,5,1967-12-18,23,0.641,0.332,3,0.893,1,0.0472,0.738,0.0228,0.301,0.628,129.225
+213,Darlin' - Remastered,The Beach Boys,Wild Honey (Remastered),134560,6,1967-12-18,57,0.63,0.661,11,0.99,1,0.0263,0.00533,1.45e-05,0.162,0.953,126.975
+214,I'd Love Just Once To See You - Remastered 2001,The Beach Boys,Wild Honey (Remastered),110573,7,1967-12-18,25,0.69,0.474,11,0.854,1,0.0355,0.319,0.000108,0.0746,0.759,130.081
+215,Here Comes The Night - Remastered 2001,The Beach Boys,Wild Honey (Remastered),163826,8,1967-12-18,25,0.657,0.479,0,1.0,1,0.0323,0.309,0.607,0.0919,0.278,126.941
+216,Let The Wind Blow - Remastered 2001,The Beach Boys,Wild Honey (Remastered),141333,9,1967-12-18,24,0.608,0.372,1,0.619,1,0.0274,0.835,0.842,0.103,0.465,114.079
+217,How She Boogalooed It - Remastered 2001,The Beach Boys,Wild Honey (Remastered),118666,10,1967-12-18,22,0.761,0.768,2,0.819,1,0.0724,0.0254,0.0113,0.121,0.685,91.536
+218,Mama Says - Remastered 2001,The Beach Boys,Wild Honey (Remastered),68573,11,1967-12-18,22,0.633,0.0533,4,0.612,1,0.26,0.877,0.0,0.0864,0.418,81.009
+219,Heroes And Villains - Remastered 2001,The Beach Boys,Smiley Smile (Remastered),219306,1,1967-09-18,52,0.426,0.583,1,0.894,1,0.0354,0.524,4.05e-06,0.147,0.232,116.803
+220,Vegetables - Remastered 2001,The Beach Boys,Smiley Smile (Remastered),129360,2,1967-09-18,38,0.619,0.116,9,0.723,1,0.0386,0.891,5.8e-05,0.235,0.193,149.496
+221,Fall Breaks And Back To Winter - Woody Woodpecker Symphony/Remastered 2001,The Beach Boys,Smiley Smile (Remastered),137706,3,1967-09-18,29,0.48,0.296,5,0.307,1,0.0288,0.757,0.905,0.0811,0.312,83.042
+222,She's Goin' Bald - Remastered 2001,The Beach Boys,Smiley Smile (Remastered),137066,4,1967-09-18,30,0.685,0.423,6,0.475,1,0.0352,0.915,2.35e-05,0.305,0.605,107.459
+223,Little Pad - Remastered 2001,The Beach Boys,Smiley Smile (Remastered),153200,5,1967-09-18,32,0.447,0.112,8,0.475,0,0.0307,0.955,0.0448,0.086,0.389,100.028
+224,Good Vibrations - Remastered 2001,The Beach Boys,Smiley Smile (Remastered),219026,6,1967-09-18,71,0.396,0.473,10,0.0,0,0.0345,0.326,0.000124,0.109,0.385,133.449
+225,With Me Tonight - Remastered 2001,The Beach Boys,Smiley Smile (Remastered),140240,7,1967-09-18,31,0.39,0.128,10,0.261,1,0.0333,0.9,0.00187,0.149,0.33,109.241
+226,Wind Chimes - Remastered 2001,The Beach Boys,Smiley Smile (Remastered),158933,8,1967-09-18,30,0.298,0.171,9,0.189,1,0.0376,0.839,0.0423,0.0995,0.049,94.505
+227,Gettin' Hungry - Remastered 2001,The Beach Boys,Smiley Smile (Remastered),150293,9,1967-09-18,28,0.502,0.312,11,0.885,1,0.0421,0.39,0.061,0.168,0.109,128.566
+228,Wonderful - Remastered 2001,The Beach Boys,Smiley Smile (Remastered),144840,10,1967-09-18,27,0.387,0.207,9,0.674,1,0.0386,0.862,0.000297,0.0917,0.443,123.544
+229,Whistle In - Remastered 2001,The Beach Boys,Smiley Smile (Remastered),67893,11,1967-09-18,27,0.699,0.211,11,0.967,1,0.033,0.916,0.158,0.0875,0.891,108.196
+230,Wouldn't It Be Nice - Remastered 2000 / Stereo Mix,The Beach Boys,Pet Sounds (40th Anniversary / Stereo Mix),153173,1,1966-06-16,30,0.389,0.563,5,0.538,1,0.0316,0.695,2.25e-06,0.0955,0.716,124.166
+231,You Still Believe In Me - Stereo / Remastered,The Beach Boys,Pet Sounds (40th Anniversary / Stereo Mix),156320,2,1966-06-16,29,0.435,0.25,11,0.904,1,0.0307,0.297,0.000438,0.124,0.276,88.507
+232,That's Not Me - Stereo / Remastered,The Beach Boys,Pet Sounds (40th Anniversary / Stereo Mix),151413,3,1966-06-16,26,0.612,0.461,11,0.077,1,0.0287,0.721,0.000168,0.0814,0.515,115.062
+233,Don't Talk (Put Your Head On My Shoulder) - Stereo / Remastered 1996,The Beach Boys,Pet Sounds (40th Anniversary / Stereo Mix),178422,4,1966-06-16,26,0.209,0.135,6,0.589,1,0.0369,0.289,0.0147,0.0809,0.0677,104.779
+234,I'm Waiting For The Day - Stereo / Remastered,The Beach Boys,Pet Sounds (40th Anniversary / Stereo Mix),186773,5,1966-06-16,25,0.348,0.42,4,0.601,1,0.0389,0.518,0.00194,0.313,0.582,166.183
+235,Let's Go Away For Awhile - Stereo / Remastered,The Beach Boys,Pet Sounds (40th Anniversary / Stereo Mix),144706,6,1966-06-16,25,0.326,0.195,2,0.076,1,0.0285,0.177,0.886,0.074,0.0807,87.533
+236,Sloop John B - Stereo / Remastered,The Beach Boys,Pet Sounds (40th Anniversary / Stereo Mix),179466,7,1966-06-16,27,0.619,0.581,8,0.657,1,0.0275,0.158,0.0,0.0707,0.936,125.917
+237,God Only Knows - Stereo / Remastered 1996,The Beach Boys,Pet Sounds (40th Anniversary / Stereo Mix),174906,8,1966-06-16,29,0.436,0.376,4,0.0,1,0.0374,0.138,0.0,0.05,0.298,116.175
+238,I Know There's An Answer - Stereo / Remastered,The Beach Boys,Pet Sounds (40th Anniversary / Stereo Mix),198346,9,1966-06-16,27,0.588,0.615,10,0.696,1,0.0303,0.4,6.32e-05,0.125,0.694,115.501
+239,Here Today - Stereo / Remastered,The Beach Boys,Pet Sounds (40th Anniversary / Stereo Mix),187413,10,1966-06-16,26,0.525,0.536,9,0.11,1,0.0389,0.469,3.36e-05,0.063,0.641,121.328
+240,I Just Wasn't Made For These Times - Stereo / Remastered,The Beach Boys,Pet Sounds (40th Anniversary / Stereo Mix),201173,11,1966-06-16,24,0.336,0.508,10,0.447,1,0.0283,0.46,0.0,0.157,0.334,93.182
+241,Pet Sounds - Stereo / Remastered,The Beach Boys,Pet Sounds (40th Anniversary / Stereo Mix),157666,12,1966-06-16,23,0.616,0.629,3,0.137,1,0.0415,0.116,0.771,0.331,0.357,115.954
+242,"Caroline, No - Stereo / Remastered",The Beach Boys,Pet Sounds (40th Anniversary / Stereo Mix),214426,13,1966-06-16,24,0.381,0.387,10,0.655,0,0.0497,0.811,1e-05,0.0595,0.323,76.161
+243,Hully Gully - Remastered 2001,The Beach Boys,Beach Boys Party! (Remastered),142066,1,1965-11-08,24,0.614,0.718,0,0.493,1,0.0611,0.47,0.0,0.799,0.846,126.57
+244,I Should Have Known Better - Remastered 2001,The Beach Boys,Beach Boys Party! (Remastered),100133,2,1965-11-08,43,0.607,0.694,7,0.542,1,0.0421,0.203,0.0,0.899,0.654,129.144
+245,Tell Me Why - Remastered,The Beach Boys,Beach Boys Party! (Remastered),106300,3,1965-11-08,30,0.575,0.751,4,0.285,0,0.0763,0.0992,0.0,0.909,0.824,83.257
+246,Papa-Oom-Mow-Mow - Radio Edit,The Beach Boys,Beach Boys Party! (Remastered),137800,4,1965-11-08,26,0.508,0.824,11,0.022,0,0.118,0.00648,0.0,0.937,0.86,81.56
+247,Mountain Of Love - Remastered,The Beach Boys,Beach Boys Party! (Remastered),170693,5,1965-11-08,22,0.533,0.661,4,0.7,1,0.0435,0.114,1.53e-06,0.465,0.783,138.135
+248,You've Got To Hide Your Love Away - Remastered,The Beach Boys,Beach Boys Party! (Remastered),175728,6,1965-11-08,25,0.487,0.479,7,0.817,1,0.0334,0.341,0.0,0.8,0.831,92.054
+249,Devoted To You - Remastered,The Beach Boys,Beach Boys Party! (Remastered),136400,7,1965-11-08,20,0.522,0.252,2,0.914,1,0.0262,0.601,0.0,0.462,0.427,93.763
+250,Alley Oop - Remastered,The Beach Boys,Beach Boys Party! (Remastered),175542,8,1965-11-08,20,0.707,0.702,9,0.928,1,0.0427,0.202,0.0,0.607,0.902,134.453
+251,There's No Other (Like My Baby) - Remastered,The Beach Boys,Beach Boys Party! (Remastered),185066,9,1965-11-08,21,0.274,0.449,10,0.527,1,0.031,0.395,0.0,0.54,0.646,207.001
+252,I Get Around/Little Deuce Coupe - Medley/Remastered 2001,The Beach Boys,Beach Boys Party! (Remastered),192106,10,1965-11-08,20,0.466,0.715,2,0.834,1,0.0855,0.352,0.0,0.34,0.89,81.828
+253,The Times They Are A-Changin' - Remastered,The Beach Boys,Beach Boys Party! (Remastered),142866,11,1965-11-08,20,0.575,0.43,7,0.725,1,0.0414,0.077,1.98e-05,0.43,0.375,111.699
+254,Barbara Ann - Remastered,The Beach Boys,Beach Boys Party! (Remastered),207200,12,1965-11-08,52,0.551,0.635,6,0.786,1,0.0505,0.238,0.0,0.184,0.801,78.715
+255,The Girl from New York City (Mono),The Beach Boys,Summer Days (And Summer Nights) [Mono & Stereo],116493,1,1965-07-05,14,0.66,0.781,7,0.655,1,0.037,0.453,0.0,0.103,0.607,150.857
+256,Amusement Parks U.S.A. (Mono),The Beach Boys,Summer Days (And Summer Nights) [Mono & Stereo],151880,2,1965-07-05,11,0.531,0.726,5,0.62,1,0.031,0.32,0.0,0.361,0.94,140.692
+257,Then I Kissed Her (Mono),The Beach Boys,Summer Days (And Summer Nights) [Mono & Stereo],138506,3,1965-07-05,21,0.586,0.821,1,0.109,1,0.0364,0.13,6.32e-05,0.0652,0.245,126.709
+258,Salt Lake City (Mono),The Beach Boys,Summer Days (And Summer Nights) [Mono & Stereo],122213,4,1965-07-05,12,0.543,0.731,3,0.535,1,0.0284,0.161,4.01e-05,0.122,0.964,136.56
+259,Girl Don't Tell Me (Mono),The Beach Boys,Summer Days (And Summer Nights) [Mono & Stereo],141240,5,1965-07-05,17,0.701,0.545,9,0.703,1,0.0321,0.286,2.59e-06,0.0853,0.732,124.628
+260,"Help Me, Rhonda (Mono)",The Beach Boys,Summer Days (And Summer Nights) [Mono & Stereo],168186,6,1965-07-05,20,0.523,0.712,1,0.81,1,0.0313,0.0968,1.09e-06,0.0653,0.851,139.778
+261,California Girls (Mono),The Beach Boys,Summer Days (And Summer Nights) [Mono & Stereo],160373,7,1965-07-05,33,0.486,0.591,11,0.245,1,0.0314,0.338,0.0,0.138,0.756,116.312
+262,Let Him Run Wild (Mono),The Beach Boys,Summer Days (And Summer Nights) [Mono & Stereo],142200,8,1965-07-05,15,0.518,0.504,11,0.738,1,0.0314,0.367,0.0,0.0775,0.759,116.94
+263,You're So Good to Me (Mono),The Beach Boys,Summer Days (And Summer Nights) [Mono & Stereo],136146,9,1965-07-05,18,0.634,0.757,5,0.562,1,0.0345,0.538,1.54e-06,0.327,0.969,118.706
+264,Summer Means New Love (Mono),The Beach Boys,Summer Days (And Summer Nights) [Mono & Stereo],121560,10,1965-07-05,14,0.605,0.357,7,0.597,1,0.0271,0.851,0.77,0.13,0.573,104.849
+265,I'm Bugged At My Ol' Man (Mono),The Beach Boys,Summer Days (And Summer Nights) [Mono & Stereo],139800,11,1965-07-05,9,0.581,0.489,2,0.957,1,0.034,0.936,3.13e-06,0.226,0.736,122.104
+266,And Your Dream Comes True (Mono),The Beach Boys,Summer Days (And Summer Nights) [Mono & Stereo],69200,12,1965-07-05,10,0.253,0.131,6,0.447,1,0.0342,0.924,0.0,0.217,0.241,109.361
+267,The Girl from New York City (Stereo),The Beach Boys,Summer Days (And Summer Nights) [Mono & Stereo],113666,13,1965-07-05,13,0.65,0.718,7,0.715,1,0.0581,0.347,1.53e-06,0.578,0.303,150.008
+268,Amusement Parks U.S.A. (Stereo),The Beach Boys,Summer Days (And Summer Nights) [Mono & Stereo],158853,14,1965-07-05,11,0.477,0.761,5,0.555,1,0.0327,0.132,0.0,0.341,0.873,139.296
+269,Then I Kissed Her (Stereo),The Beach Boys,Summer Days (And Summer Nights) [Mono & Stereo],136466,15,1965-07-05,33,0.57,0.729,1,1.0,1,0.0276,0.266,3.75e-05,0.0616,0.86,126.582
+270,Salt Lake City (Stereo),The Beach Boys,Summer Days (And Summer Nights) [Mono & Stereo],123760,16,1965-07-05,12,0.487,0.732,3,0.68,1,0.0354,0.0268,7.75e-06,0.142,0.719,137.646
+271,Girl Don't Tell Me (Stereo),The Beach Boys,Summer Days (And Summer Nights) [Mono & Stereo],142040,17,1965-07-05,14,0.666,0.518,9,0.728,1,0.0309,0.374,0.0,0.0784,0.742,124.65
+272,"Help Me, Rhonda (Stereo)",The Beach Boys,Summer Days (And Summer Nights) [Mono & Stereo],168146,18,1965-07-05,19,0.535,0.631,1,0.795,1,0.0319,0.131,0.0,0.196,0.799,139.805
+273,California Girls (Stereo),The Beach Boys,Summer Days (And Summer Nights) [Mono & Stereo],167600,19,1965-07-05,27,0.424,0.773,11,0.426,1,0.0377,0.183,1.09e-06,0.1,0.811,115.613
+274,Let Him Run Wild (Stereo),The Beach Boys,Summer Days (And Summer Nights) [Mono & Stereo],142360,20,1965-07-05,17,0.483,0.53,11,0.794,1,0.0311,0.534,0.0,0.084,0.745,117.599
+275,You're So Good to Me (Stereo),The Beach Boys,Summer Days (And Summer Nights) [Mono & Stereo],136360,21,1965-07-05,24,0.65,0.695,5,0.453,1,0.031,0.411,0.0,0.122,0.969,118.618
+276,Summer Means New Love (Stereo),The Beach Boys,Summer Days (And Summer Nights) [Mono & Stereo],123186,22,1965-07-05,14,0.674,0.357,7,0.534,1,0.0298,0.692,0.828,0.103,0.435,103.908
+277,I'm Bugged At My Ol' Man (Stereo),The Beach Boys,Summer Days (And Summer Nights) [Mono & Stereo],142373,23,1965-07-05,9,0.566,0.366,2,0.902,1,0.0442,0.936,3.86e-06,0.176,0.696,120.903
+278,And Your Dream Comes True (Stereo),The Beach Boys,Summer Days (And Summer Nights) [Mono & Stereo],65186,24,1965-07-05,12,0.279,0.0827,6,0.559,1,0.0356,0.846,0.0,0.369,0.22,114.93
+279,Do You Wanna Dance? - Remastered,The Beach Boys,The Beach Boys Today! (Remastered),141400,1,1965-03-08,29,0.424,0.828,10,0.877,1,0.0522,0.695,1.07e-05,0.36,0.71,147.568
+280,Good To My Baby - Remastered,The Beach Boys,The Beach Boys Today! (Remastered),138373,2,1965-03-08,24,0.536,0.814,4,0.085,0,0.0277,0.526,1.81e-05,0.0724,0.964,136.525
+281,Don't Hurt My Little Sister - Remastered,The Beach Boys,The Beach Boys Today! (Remastered),129226,3,1965-03-08,23,0.63,0.753,10,0.468,1,0.0305,0.772,0.000223,0.226,0.904,141.216
+282,When I Grow Up (To Be A Man) - Remastered,The Beach Boys,The Beach Boys Today! (Remastered),124040,4,1965-03-08,27,0.396,0.768,8,0.611,1,0.0512,0.613,0.0,0.349,0.636,148.261
+283,"Help Me, Rhonda - Remastered",The Beach Boys,The Beach Boys Today! (Remastered),190360,5,1965-03-08,32,0.569,0.764,1,0.781,1,0.0275,0.122,0.000155,0.07,0.847,136.345
+284,"Dance, Dance, Dance - Remastered",The Beach Boys,The Beach Boys Today! (Remastered),121466,6,1965-03-08,32,0.529,0.908,8,0.419,1,0.0349,0.069,4.19e-06,0.0624,0.936,149.294
+285,Please Let Me Wonder - Remastered,The Beach Boys,The Beach Boys Today! (Remastered),167266,7,1965-03-08,35,0.54,0.49,10,0.0,1,0.0305,0.777,0.208,0.104,0.488,116.968
+286,I'm So Young - Remastered,The Beach Boys,The Beach Boys Today! (Remastered),152706,8,1965-03-08,26,0.362,0.375,3,0.81,1,0.0285,0.835,3.2e-05,0.124,0.437,105.165
+287,"Kiss Me, Baby - Remastered",The Beach Boys,The Beach Boys Today! (Remastered),157400,9,1965-03-08,27,0.51,0.507,3,0.772,1,0.0251,0.778,0.000102,0.12,0.522,108.957
+288,She Knows Me Too Well - Remastered,The Beach Boys,The Beach Boys Today! (Remastered),150026,10,1965-03-08,28,0.485,0.6,4,0.195,1,0.0341,0.734,0.0,0.109,0.364,119.086
+289,In The Back Of My Mind - Remastered,The Beach Boys,The Beach Boys Today! (Remastered),129373,11,1965-03-08,24,0.268,0.327,5,0.527,1,0.0303,0.355,0.0,0.116,0.426,104.244
+290,"Bull Session With ""Big Daddy"" - Remastered",The Beach Boys,The Beach Boys Today! (Remastered),133560,12,1965-03-08,17,0.626,0.268,7,0.517,0,0.56,0.835,0.0,0.163,0.627,99.437
+291,Little Saint Nick - 1991 Remix,The Beach Boys,The Beach Boys' Christmas Album,118840,1,1964-11-09,50,0.602,0.553,11,0.0,1,0.0328,0.108,0.0,0.0512,0.971,130.594
+292,The Man With All The Toys - 1991 Remix,The Beach Boys,The Beach Boys' Christmas Album,91186,2,1964-11-09,32,0.708,0.492,6,0.663,1,0.0365,0.442,9.88e-06,0.0624,0.662,138.347
+293,Santa's Beard - 1991 Remix,The Beach Boys,The Beach Boys' Christmas Album,119240,3,1964-11-09,23,0.694,0.541,8,0.49,1,0.0302,0.489,0.0,0.102,0.952,130.401
+294,"Merry Christmas, Baby - 1991 Remix",The Beach Boys,The Beach Boys' Christmas Album,146093,4,1964-11-09,24,0.696,0.494,9,0.558,1,0.0581,0.307,0.0,0.0865,0.815,127.396
+295,Christmas Day - 1991 Remix,The Beach Boys,The Beach Boys' Christmas Album,111213,5,1964-11-09,20,0.649,0.419,5,0.408,1,0.0286,0.378,0.000356,0.0558,0.894,123.247
+296,Frosty The Snowman - 1991 Remix,The Beach Boys,The Beach Boys' Christmas Album,114280,6,1964-11-09,32,0.413,0.473,5,0.62,1,0.0316,0.72,0.0,0.0418,0.966,182.027
+297,We Three Kings Of Orient Are - 1991 Remix,The Beach Boys,The Beach Boys' Christmas Album,244613,7,1964-11-09,35,0.218,0.176,10,0.451,1,0.033,0.622,9.31e-06,0.123,0.202,116.829
+298,Blue Christmas - 1991 Remix,The Beach Boys,The Beach Boys' Christmas Album,190106,8,1964-11-09,17,0.211,0.189,10,0.454,1,0.03,0.753,9.31e-06,0.114,0.227,82.909
+299,Santa Claus Is Comin' To Town - 1991 Remix,The Beach Boys,The Beach Boys' Christmas Album,140016,9,1964-11-09,21,0.452,0.305,10,0.116,1,0.0411,0.692,0.0,0.116,0.508,131.594
+300,White Christmas - 1991 Remix,The Beach Boys,The Beach Boys' Christmas Album,149560,10,1964-11-09,17,0.258,0.212,7,0.518,1,0.0302,0.838,2.85e-05,0.329,0.163,87.733
+301,I'll Be Home For Christmas - 1991 Remix,The Beach Boys,The Beach Boys' Christmas Album,163346,11,1964-11-09,18,0.189,0.218,3,0.716,1,0.0304,0.681,2.42e-05,0.175,0.144,85.663
+302,Auld Lang Syne - 1991 Remix,The Beach Boys,The Beach Boys' Christmas Album,80120,12,1964-11-09,18,0.425,0.123,1,0.132,1,0.0681,0.722,0.0,0.171,0.337,57.178
+303,I Get Around (Mono),The Beach Boys,All Summer Long (Mono & Stereo),134386,1,1964-07-13,67,0.39,0.625,9,0.28,0,0.0537,0.36,0.0,0.0663,0.514,144.338
+304,All Summer Long (Mono),The Beach Boys,All Summer Long (Mono & Stereo),128986,2,1964-07-13,40,0.568,0.688,11,0.673,1,0.0542,0.115,0.000261,0.203,0.836,136.853
+305,Hushabye (Mono),The Beach Boys,All Summer Long (Mono & Stereo),161346,3,1964-07-13,24,0.388,0.417,4,0.588,1,0.0306,0.374,0.544,0.169,0.317,122.814
+306,Little Honda (Mono),The Beach Boys,All Summer Long (Mono & Stereo),112520,4,1964-07-13,27,0.406,0.597,1,0.969,1,0.0301,0.0806,8.14e-05,0.173,0.884,150.26
+307,We'll Run Away (Mono),The Beach Boys,All Summer Long (Mono & Stereo),122746,5,1964-07-13,24,0.537,0.36,1,0.66,1,0.0266,0.25,0.0,0.0703,0.559,100.436
+308,Carl's Big Chance (Mono),The Beach Boys,All Summer Long (Mono & Stereo),123158,6,1964-07-13,21,0.837,0.602,11,0.108,1,0.129,0.142,0.933,0.0697,0.27,90.377
+309,Wendy (Mono),The Beach Boys,All Summer Long (Mono & Stereo),141813,7,1964-07-13,27,0.471,0.363,5,0.367,1,0.0348,0.0331,0.0,0.11,0.375,137.319
+310,Do You Remember (Mono),The Beach Boys,All Summer Long (Mono & Stereo),100213,8,1964-07-13,24,0.522,0.827,0,0.647,1,0.0815,0.827,0.0,0.155,0.83,158.473
+311,Girls On the Beach (Mono),The Beach Boys,All Summer Long (Mono & Stereo),148946,9,1964-07-13,24,0.41,0.39,10,0.241,1,0.0272,0.56,0.0,0.0882,0.437,104.072
+312,Drive-In (Mono),The Beach Boys,All Summer Long (Mono & Stereo),109505,10,1964-07-13,20,0.59,0.835,5,0.497,1,0.0449,0.636,0.0,0.305,0.96,150.527
+313,Our Favorite Recording Sessions (Mono),The Beach Boys,All Summer Long (Mono & Stereo),120133,11,1964-07-13,17,0.528,0.238,11,0.386,1,0.907,0.718,0.0,0.348,0.405,65.285
+314,Don't Back Down (Mono),The Beach Boys,All Summer Long (Mono & Stereo),112400,12,1964-07-13,21,0.564,0.536,9,0.639,1,0.0314,0.157,0.00309,0.0632,0.963,143.166
+315,I Get Around (Stereo) - Remastered,The Beach Boys,All Summer Long (Mono & Stereo),134266,13,1964-07-13,43,0.398,0.513,9,0.544,0,0.0371,0.29,0.0,0.0639,0.902,146.099
+316,All Summer Long (Stereo),The Beach Boys,All Summer Long (Mono & Stereo),128973,14,1964-07-13,38,0.551,0.638,11,0.722,1,0.0527,0.327,1.39e-05,0.56,0.866,136.097
+317,Hushabye (Stereo),The Beach Boys,All Summer Long (Mono & Stereo),162293,15,1964-07-13,25,0.422,0.389,4,0.546,1,0.0322,0.599,0.133,0.164,0.332,122.851
+318,Little Honda (Stereo),The Beach Boys,All Summer Long (Mono & Stereo),114333,16,1964-07-13,35,0.429,0.556,1,1.0,1,0.032,0.203,0.0,0.126,0.766,151.1
+319,We'll Run Away (Stereo),The Beach Boys,All Summer Long (Mono & Stereo),122533,17,1964-07-13,22,0.472,0.307,1,0.691,1,0.0253,0.549,0.0,0.118,0.626,99.277
+320,Carl's Big Chance (Stereo),The Beach Boys,All Summer Long (Mono & Stereo),147613,18,1964-07-13,19,0.81,0.539,11,0.038,1,0.0314,0.189,0.808,0.0718,0.714,89.789
+321,Wendy (Stereo),The Beach Boys,All Summer Long (Mono & Stereo),138893,19,1964-07-13,23,0.479,0.484,5,0.302,1,0.0394,0.159,0.0,0.127,0.491,136.946
+322,Do You Remember (Stereo),The Beach Boys,All Summer Long (Mono & Stereo),100160,20,1964-07-13,22,0.601,0.729,0,0.59,1,0.0395,0.42,1.45e-06,0.165,0.972,79.52
+323,Girls On the Beach (Stereo),The Beach Boys,All Summer Long (Mono & Stereo),146546,21,1964-07-13,26,0.428,0.4,9,0.0,1,0.0274,0.692,0.0,0.172,0.522,105.2
+324,Drive-In (Stereo),The Beach Boys,All Summer Long (Mono & Stereo),111240,22,1964-07-13,22,0.533,0.806,5,0.567,1,0.0472,0.58,0.0,0.295,0.959,150.777
+325,Our Favorite Recording Sessions (Mono),The Beach Boys,All Summer Long (Mono & Stereo),119960,23,1964-07-13,14,0.593,0.267,11,0.296,1,0.792,0.619,0.0,0.362,0.512,66.558
+326,Don't Back Down (Stereo),The Beach Boys,All Summer Long (Mono & Stereo),103626,24,1964-07-13,20,0.618,0.467,9,0.478,1,0.0315,0.0788,0.000464,0.0897,0.969,143.936
+327,"Fun, Fun, Fun - Remastered 2001",The Beach Boys,"Shut Down, Vol. 2 (Remastered)",125400,1,1964-03-02,43,0.505,0.858,3,0.812,1,0.0352,0.293,0.0,0.11,0.973,156.044
+328,Don't Worry Baby - Remastered 2001,The Beach Boys,"Shut Down, Vol. 2 (Remastered)",169933,2,1964-03-02,64,0.487,0.464,4,0.688,1,0.03,0.0666,0.00531,0.105,0.851,121.242
+329,In The Parkin' Lot - Remastered 2001,The Beach Boys,"Shut Down, Vol. 2 (Remastered)",123600,3,1964-03-02,24,0.351,0.579,6,0.525,1,0.033,0.571,7.95e-05,0.216,0.929,154.742
+330,"""Cassius"" Love Vs. ""Sonny"" Wilson - Remastered 2001",The Beach Boys,"Shut Down, Vol. 2 (Remastered)",211560,4,1964-03-02,19,0.555,0.3,10,0.392,0,0.25,0.596,0.0,0.661,0.487,149.984
+331,The Warmth Of The Sun - Remastered,The Beach Boys,"Shut Down, Vol. 2 (Remastered)",173933,5,1964-03-02,35,0.257,0.385,9,0.227,0,0.0297,0.686,0.000829,0.127,0.39,203.726
+332,This Car Of Mine - Remastered 2001,The Beach Boys,"Shut Down, Vol. 2 (Remastered)",97400,6,1964-03-02,23,0.615,0.586,11,0.509,1,0.0304,0.643,6.53e-06,0.0951,0.968,132.234
+333,Why Do Fools Fall In Love - Remastered 2001,The Beach Boys,"Shut Down, Vol. 2 (Remastered)",129466,7,1964-03-02,26,0.4,0.766,5,0.559,1,0.0433,0.557,4.29e-06,0.101,0.764,82.708
+334,Pom Pom Play Girl - Remastered 2001,The Beach Boys,"Shut Down, Vol. 2 (Remastered)",92733,8,1964-03-02,20,0.516,0.797,8,0.094,1,0.0331,0.216,0.000168,0.0515,0.968,152.007
+335,Keep An Eye On Summer - Remastered 2001,The Beach Boys,"Shut Down, Vol. 2 (Remastered)",143733,9,1964-03-02,25,0.395,0.42,6,0.52,1,0.0255,0.198,0.00102,0.123,0.392,72.437
+336,"Shut Down, Part II - Remastered 2001",The Beach Boys,"Shut Down, Vol. 2 (Remastered)",129506,10,1964-03-02,20,0.672,0.736,9,0.835,1,0.0385,0.0379,0.675,0.356,0.967,158.604
+337,Louie Louie - Remastered 2001,The Beach Boys,"Shut Down, Vol. 2 (Remastered)",139866,11,1964-03-02,24,0.779,0.565,9,0.583,1,0.041,0.0655,0.036,0.103,0.798,127.449
+338,Denny's Drums - Remastered,The Beach Boys,"Shut Down, Vol. 2 (Remastered)",119426,12,1964-03-02,18,0.548,0.934,7,0.565,1,0.0406,0.00204,0.641,0.124,0.689,121.336
+339,Little Deuce Coupe - Remastered,The Beach Boys,Little Deuce Coupe (Remastered),101000,1,1963-10-07,30,0.67,0.688,8,0.677,1,0.035,0.679,6.72e-05,0.128,0.977,133.833
+340,Ballad Of Ole' Betsy - Remastered 2001,The Beach Boys,Little Deuce Coupe (Remastered),137440,2,1963-10-07,18,0.509,0.297,8,0.389,1,0.0273,0.655,0.0,0.079,0.548,100.223
+341,Be True To Your School,The Beach Boys,Little Deuce Coupe (Remastered),128693,3,1963-10-07,37,0.528,0.722,10,0.291,1,0.0344,0.501,6.02e-06,0.0705,0.86,138.648
+342,Car Crazy Cutie - Remastered 2001,The Beach Boys,Little Deuce Coupe (Remastered),169200,4,1963-10-07,20,0.563,0.735,4,0.297,1,0.0515,0.367,0.0,0.12,0.937,128.673
+343,"Cherry, Cherry Coupe - Remastered 2001",The Beach Boys,Little Deuce Coupe (Remastered),110306,5,1963-10-07,20,0.672,0.837,2,0.563,1,0.0294,0.583,0.0,0.0866,0.965,133.963
+344,409,The Beach Boys,Little Deuce Coupe (Remastered),121400,6,1963-10-07,21,0.473,0.693,7,0.694,1,0.0305,0.76,0.0,0.203,0.853,159.406
+345,Shut Down - Remastered 2001,The Beach Boys,Little Deuce Coupe (Remastered),110960,7,1963-10-07,18,0.597,0.819,8,0.76,1,0.0399,0.388,1.53e-05,0.055,0.977,159.914
+346,Spirit Of America - Remastered 2001,The Beach Boys,Little Deuce Coupe (Remastered),146106,8,1963-10-07,17,0.29,0.48,0,0.403,0,0.0302,0.207,0.0,0.229,0.663,206.074
+347,Our Car Club - Remastered 2001,The Beach Boys,Little Deuce Coupe (Remastered),143933,9,1963-10-07,15,0.735,0.813,10,0.958,1,0.0335,0.732,0.0108,0.0527,0.968,127.093
+348,No-Go Showboat - Remastered 2001,The Beach Boys,Little Deuce Coupe (Remastered),116293,10,1963-10-07,14,0.591,0.737,6,0.672,1,0.0345,0.771,0.0,0.298,0.924,143.847
+349,A Young Man Is Gone - Remastered 2001,The Beach Boys,Little Deuce Coupe (Remastered),138866,11,1963-10-07,13,0.295,0.217,8,0.581,1,0.0313,0.846,0.0,0.259,0.196,80.221
+350,Custom Machine - Remastered 2001,The Beach Boys,Little Deuce Coupe (Remastered),102066,12,1963-10-07,17,0.492,0.883,10,0.196,0,0.0763,0.147,0.22,0.156,0.527,150.753
+351,Surfer Girl - Remastered 2001,The Beach Boys,Surfer Girl (Remastered),148533,1,1963-09-16,51,0.522,0.37,2,0.581,1,0.0253,0.651,0.0,0.142,0.653,105.826
+352,Catch A Wave - Stereo/Remastered 2001,The Beach Boys,Surfer Girl (Remastered),130199,2,1963-09-16,33,0.644,0.713,2,0.895,1,0.0342,0.469,3.75e-06,0.0479,0.966,139.118
+353,The Surfer Moon - Remastered 2001,The Beach Boys,Surfer Girl (Remastered),134306,3,1963-09-16,26,0.272,0.338,6,0.753,1,0.034,0.828,0.0,0.14,0.472,87.501
+354,South Bay Surfer - Remastered 2001,The Beach Boys,Surfer Girl (Remastered),108251,4,1963-09-16,16,0.672,0.677,4,0.744,1,0.0461,0.621,1.18e-06,0.0399,0.936,62.308
+355,Rocking Surfer - Remastered 2001,The Beach Boys,Surfer Girl (Remastered),122773,5,1963-09-16,16,0.462,0.848,8,0.624,1,0.0313,0.134,0.771,0.389,0.971,152.614
+356,Little Deuce Coupe - Remastered,The Beach Boys,Surfer Girl (Remastered),100933,6,1963-09-16,49,0.665,0.701,8,0.705,1,0.0329,0.622,6.48e-05,0.141,0.977,133.853
+357,In My Room - Remastered,The Beach Boys,Surfer Girl (Remastered),134133,7,1963-09-16,51,0.341,0.416,11,0.0,1,0.0265,0.184,6.28e-05,0.0917,0.499,102.886
+358,Hawaii - Remastered 2001,The Beach Boys,Surfer Girl (Remastered),122000,8,1963-09-16,34,0.516,0.697,8,0.554,1,0.0373,0.388,0.0,0.176,0.964,144.09
+359,Surfers Rule - Remastered 2001,The Beach Boys,Surfer Girl (Remastered),116333,9,1963-09-16,18,0.578,0.717,9,0.688,1,0.0302,0.425,7.53e-05,0.0681,0.963,142.28
+360,Our Car Club - Remastered 2001,The Beach Boys,Surfer Girl (Remastered),144800,10,1963-09-16,17,0.739,0.81,10,0.97,1,0.0343,0.738,0.0172,0.0569,0.967,127.071
+361,Your Summer Dream - Remastered 2001,The Beach Boys,Surfer Girl (Remastered),149426,11,1963-09-16,30,0.575,0.356,9,0.385,1,0.0286,0.375,8.62e-05,0.077,0.649,95.672
+362,Boogie Woodie - Remastered 2001,The Beach Boys,Surfer Girl (Remastered),120373,12,1963-09-16,14,0.551,0.987,8,0.689,1,0.0664,0.695,0.753,0.482,0.419,95.185
+363,Surfin' U.S.A. - Remastered 2001,The Beach Boys,Surfin' USA (Remastered),149373,1,1963-03-25,72,0.55,0.854,3,0.709,1,0.036,0.661,0.0,0.112,0.965,159.231
+364,Farmer's Daughter - Remastered 2001,The Beach Boys,Surfin' USA (Remastered),111466,2,1963-03-25,27,0.504,0.495,5,0.721,1,0.0321,0.643,3.26e-05,0.0665,0.938,145.943
+365,Misirlou - Remastered 2001,The Beach Boys,Surfin' USA (Remastered),126266,3,1963-03-25,35,0.386,0.786,5,1.0,1,0.0423,0.0151,0.82,0.472,0.573,167.94
+366,Stoked - Remastered 2001,The Beach Boys,Surfin' USA (Remastered),121360,4,1963-03-25,36,0.655,0.85,5,0.424,1,0.0465,0.0638,0.873,0.111,0.892,138.853
+367,Lonely Sea - Stereo/Remastered 2001,The Beach Boys,Surfin' USA (Remastered),143840,5,1963-03-25,26,0.127,0.113,1,0.431,1,0.0309,0.75,4.99e-06,0.105,0.0994,199.248
+368,Shut Down - Remastered 2001,The Beach Boys,Surfin' USA (Remastered),111200,6,1963-03-25,27,0.593,0.824,8,0.717,1,0.0436,0.331,1.87e-05,0.0535,0.98,159.921
+369,Noble Surfer - Remastered 2001,The Beach Boys,Surfin' USA (Remastered),113826,7,1963-03-25,20,0.68,0.86,0,0.702,1,0.0499,0.626,2.39e-05,0.302,0.962,160.275
+370,Honky Tonk - Remastered 2001,The Beach Boys,Surfin' USA (Remastered),124266,8,1963-03-25,20,0.677,0.796,9,0.525,1,0.0521,0.104,0.819,0.0896,0.885,126.591
+371,Lana - Remastered 2001,The Beach Boys,Surfin' USA (Remastered),101800,9,1963-03-25,19,0.623,0.64,3,0.468,1,0.0301,0.779,2.48e-05,0.101,0.961,140.667
+372,Surf Jam - Remastered 2001,The Beach Boys,Surfin' USA (Remastered),132911,10,1963-03-25,30,0.453,0.959,5,0.363,0,0.06,0.239,0.544,0.0962,0.849,176.808
+373,Let's Go Trippin' - Remastered 2001,The Beach Boys,Surfin' USA (Remastered),119866,11,1963-03-25,30,0.554,0.915,9,0.34,0,0.0515,0.171,0.806,0.322,0.851,164.022
+374,Finders Keepers - Remastered 2001,The Beach Boys,Surfin' USA (Remastered),102200,12,1963-03-25,21,0.493,0.702,9,0.508,1,0.0518,0.803,0.0,0.219,0.808,145.959
+375,20th Century Man,The Kinks,Muswell Hillbillies,358506,1,1971,0,0.5,0.598,2,1.0,1,0.0394,0.401,0.00602,0.0785,0.688,142.271
+376,Acute Schizophrenia Paranoia Blues,The Kinks,Muswell Hillbillies,212373,2,1971,0,0.575,0.581,7,0.846,1,0.0332,0.846,0.00103,0.068,0.944,106.532
+377,Holiday,The Kinks,Muswell Hillbillies,160053,3,1971,0,0.441,0.286,4,0.531,1,0.0454,0.89,4.82e-06,0.105,0.52,152.332
+378,Skin & Bone,The Kinks,Muswell Hillbillies,219080,4,1971,0,0.628,0.756,11,0.172,0,0.0527,0.565,0.513,0.1,0.946,140.209
+379,Alcohol,The Kinks,Muswell Hillbillies,215733,5,1971,4,0.64,0.307,9,0.862,0,0.0374,0.913,0.00204,0.0974,0.706,118.907
+380,Complicated Life,The Kinks,Muswell Hillbillies,242706,6,1971,0,0.411,0.545,2,0.898,1,0.0459,0.704,0.00704,0.168,0.643,128.763
+381,Here Come The People In Grey,The Kinks,Muswell Hillbillies,226133,7,1971,0,0.606,0.735,0,0.997,1,0.0406,0.79,0.0182,0.0751,0.685,123.451
+382,Have A Cuppa Tea,The Kinks,Muswell Hillbillies,225360,8,1971,0,0.432,0.478,7,0.817,1,0.0403,0.791,0.0339,0.107,0.748,174.446
+383,Holloway Jail,The Kinks,Muswell Hillbillies,208573,9,1971,0,0.582,0.644,2,0.766,1,0.0468,0.668,0.00311,0.0845,0.53,152.648
+384,Oklahoma U.S.A,The Kinks,Muswell Hillbillies,158986,10,1971,0,0.335,0.166,9,0.984,1,0.0283,0.971,0.133,0.0925,0.301,98.002
+385,Uncle Son,The Kinks,Muswell Hillbillies,155453,11,1971,0,0.588,0.341,2,1.0,1,0.0308,0.285,0.949,0.189,0.195,114.28
+386,Muswell Hillbilly,The Kinks,Muswell Hillbillies,296973,12,1971,0,0.586,0.553,9,0.7,1,0.0376,0.645,0.31,0.204,0.794,134.979
+387,Mountain Woman,The Kinks,Muswell Hillbillies,188706,13,1971,0,0.495,0.796,9,0.496,1,0.0487,0.0553,2.28e-05,0.0681,0.914,161.514
+388,Kentucky Moon,The Kinks,Muswell Hillbillies,234346,14,1971,0,0.455,0.221,2,0.864,1,0.0361,0.969,0.666,0.183,0.18,163.859
+389,The Contenders,The Kinks,"Lola Versus Powerman and the Moneygoround, Pt. One",161960,1,1970-11-27,3,0.621,0.877,4,0.658,1,0.0607,0.592,0.382,0.699,0.559,97.749
+390,Strangers,The Kinks,"Lola Versus Powerman and the Moneygoround, Pt. One",198373,2,1970-11-27,6,0.47,0.397,0,0.893,1,0.0346,0.253,1.35e-05,0.109,0.487,128.689
+391,Denmark Street,The Kinks,"Lola Versus Powerman and the Moneygoround, Pt. One",119893,3,1970-11-27,1,0.558,0.835,7,0.493,1,0.0454,0.556,2.52e-05,0.15,0.676,109.955
+392,Get Back In Line,The Kinks,"Lola Versus Powerman and the Moneygoround, Pt. One",184160,4,1970-11-27,0,0.332,0.554,7,0.554,1,0.0257,0.142,4.74e-05,0.212,0.414,95.103
+393,Lola,The Kinks,"Lola Versus Powerman and the Moneygoround, Pt. One",241040,5,1970-11-27,10,0.474,0.917,9,0.779,1,0.0395,0.582,0.229,0.2,0.902,152.031
+394,Top of the Pops,The Kinks,"Lola Versus Powerman and the Moneygoround, Pt. One",219466,6,1970-11-27,1,0.417,0.698,2,0.899,1,0.0972,0.369,0.0103,0.127,0.582,114.722
+395,The Moneygoround,The Kinks,"Lola Versus Powerman and the Moneygoround, Pt. One",103360,7,1970-11-27,1,0.618,0.634,2,0.695,1,0.0286,0.874,1.94e-06,0.134,0.671,108.139
+396,This Time Tomorrow,The Kinks,"Lola Versus Powerman and the Moneygoround, Pt. One",201426,8,1970-11-27,4,0.395,0.814,4,0.361,0,0.052,0.276,0.00365,0.224,0.748,128.946
+397,A Long Way from Home,The Kinks,"Lola Versus Powerman and the Moneygoround, Pt. One",146533,9,1970-11-27,0,0.561,0.576,2,0.856,1,0.0251,0.647,0.000265,0.109,0.369,95.176
+398,Rats,The Kinks,"Lola Versus Powerman and the Moneygoround, Pt. One",158773,10,1970-11-27,1,0.48,0.79,9,0.569,1,0.0664,0.284,0.591,0.0675,0.836,144.199
+399,Apeman,The Kinks,"Lola Versus Powerman and the Moneygoround, Pt. One",231773,11,1970-11-27,3,0.666,0.764,9,0.821,1,0.299,0.71,0.0083,0.0584,0.845,75.621
+400,Powerman,The Kinks,"Lola Versus Powerman and the Moneygoround, Pt. One",256265,12,1970-11-27,1,0.571,0.829,2,0.931,1,0.0319,0.36,0.436,0.118,0.765,98.411
+401,Got to Be Free,The Kinks,"Lola Versus Powerman and the Moneygoround, Pt. One",179040,13,1970-11-27,0,0.604,0.933,4,0.643,1,0.0641,0.556,0.000297,0.132,0.585,96.691
+402,Lola (Mono 'Cherry Cola' Single Version),The Kinks,"Lola Versus Powerman and the Moneygoround, Pt. One",244626,14,1970-11-27,1,0.433,0.906,9,0.414,1,0.0534,0.416,3.26e-06,0.204,0.833,149.998
+403,Apeman (Stereo Alternate Version),The Kinks,"Lola Versus Powerman and the Moneygoround, Pt. One",218600,15,1970-11-27,1,0.5,0.817,9,0.512,1,0.206,0.653,0.000191,0.121,0.942,160.792
+404,Powerman (Demo),The Kinks,"Lola Versus Powerman and the Moneygoround, Pt. One",263093,16,1970-11-27,0,0.553,0.906,2,0.984,1,0.0602,0.396,0.666,0.136,0.706,98.129
+405,Victoria - Mono Mix,The Kinks,Arthur (Deluxe Edition),220053,1,1969-10-10,50,0.48,0.851,7,0.619,1,0.0337,0.0772,0.00787,0.0772,0.768,141.82
+406,"Yes Sir, No Sir - Mono Mix",The Kinks,Arthur (Deluxe Edition),228000,2,1969-10-10,25,0.392,0.755,5,0.417,1,0.122,0.215,9.28e-05,0.0667,0.636,188.873
+407,Some Mother's Son - Mono Mix,The Kinks,Arthur (Deluxe Edition),205373,3,1969-10-10,22,0.356,0.659,7,0.155,1,0.0362,0.168,0.0,0.0864,0.388,81.816
+408,Drivin' - Mono Mix,The Kinks,Arthur (Deluxe Edition),193066,4,1969-10-10,24,0.592,0.728,2,0.598,1,0.0531,0.185,0.0,0.34,0.689,119.026
+409,Brainwashed - Mono Mix,The Kinks,Arthur (Deluxe Edition),154133,5,1969-10-10,26,0.499,0.82,7,0.122,0,0.113,0.0948,0.0294,0.146,0.539,74.312
+410,Australia - Mono Mix,The Kinks,Arthur (Deluxe Edition),400826,6,1969-10-10,22,0.35,0.909,8,0.671,1,0.0834,0.0234,0.0102,0.132,0.682,98.785
+411,Shangri-La - Mono Mix,The Kinks,Arthur (Deluxe Edition),321120,7,1969-10-10,39,0.367,0.752,5,0.068,1,0.0484,0.0429,0.0,0.12,0.232,112.821
+412,Mr. Churchill Says - Mono Mix,The Kinks,Arthur (Deluxe Edition),281706,8,1969-10-10,23,0.379,0.899,7,0.384,1,0.0565,0.0259,0.0175,0.269,0.655,96.853
+413,She's Bought a Hat Like Princess Marina - Mono Mix,The Kinks,Arthur (Deluxe Edition),188000,9,1969-10-10,18,0.462,0.831,7,0.532,1,0.0804,0.208,0.0,0.0753,0.572,117.526
+414,Young and Innocent Days - Mono Mix,The Kinks,Arthur (Deluxe Edition),202133,10,1969-10-10,17,0.398,0.339,0,0.686,1,0.0296,0.603,3.55e-05,0.109,0.221,92.794
+415,Nothing to Say,The Kinks,Arthur (Deluxe Edition),187746,11,1969-10-10,19,0.333,0.794,2,0.456,1,0.0377,0.0303,5.35e-06,0.245,0.775,200.547
+416,Arthur,The Kinks,Arthur (Deluxe Edition),324106,12,1969-10-10,22,0.547,0.955,2,0.67,1,0.045,0.00229,1.49e-05,0.121,0.872,124.218
+417,Plastic Man - Mono Mix,The Kinks,Arthur (Deluxe Edition),184960,13,1969-10-10,23,0.586,0.878,2,0.652,1,0.0337,0.0526,0.0,0.295,0.922,95.8
+418,This Man He Weeps Tonight - Mono Mix,The Kinks,Arthur (Deluxe Edition),162106,14,1969-10-10,17,0.545,0.867,2,0.503,1,0.0315,0.000136,0.000739,0.188,0.795,132.428
+419,Mindless Child of Motherhood - Mono Mix,The Kinks,Arthur (Deluxe Edition),189426,15,1969-10-10,18,0.385,0.672,5,0.448,1,0.0302,0.00268,0.0,0.174,0.604,137.851
+420,Creeping Jean - Mono Mix,The Kinks,Arthur (Deluxe Edition),197600,16,1969-10-10,13,0.531,0.809,9,0.842,1,0.0442,0.461,0.0035,0.115,0.505,120.77
+421,Lincoln County - Mono Mix,The Kinks,Arthur (Deluxe Edition),193053,17,1969-10-10,17,0.488,0.616,7,0.722,1,0.0294,0.146,0.0,0.136,0.813,146.426
+422,Hold My Hand - Mono Mix,The Kinks,Arthur (Deluxe Edition),200226,18,1969-10-10,13,0.451,0.629,5,0.0,1,0.031,0.298,1.03e-05,0.129,0.525,79.151
+423,Victoria - Live At the BBC,The Kinks,Arthur (Deluxe Edition),215546,19,1969-10-10,11,0.482,0.824,7,0.509,1,0.049,0.0111,0.0148,0.164,0.768,142.888
+424,Mr. Churchill Says - Live At the BBC,The Kinks,Arthur (Deluxe Edition),217626,20,1969-10-10,10,0.487,0.712,0,0.618,1,0.111,0.0695,0.00793,0.0639,0.605,96.218
+425,Arthur - Live At the BBC,The Kinks,Arthur (Deluxe Edition),197040,21,1969-10-10,9,0.662,0.876,9,0.286,1,0.0375,0.147,0.138,0.0703,0.744,124.279
+426,Victoria - Stereo Mix,The Kinks,Arthur (Deluxe Edition),220280,1,1969-10-10,24,0.5,0.854,7,0.508,1,0.0389,0.018,0.00191,0.0903,0.811,142.07
+427,"Yes Sir, No Sir - Stereo Mix",The Kinks,Arthur (Deluxe Edition),226826,2,1969-10-10,13,0.379,0.676,5,0.522,1,0.184,0.206,2.58e-06,0.0778,0.651,187.369
+428,Some Mother's Son - Stereo Mix,The Kinks,Arthur (Deluxe Edition),205880,3,1969-10-10,12,0.301,0.622,2,0.0,0,0.0352,0.362,0.0,0.091,0.302,80.879
+429,Drivin' - Stereo Mix,The Kinks,Arthur (Deluxe Edition),199986,4,1969-10-10,13,0.558,0.673,2,0.043,1,0.0333,0.117,0.0,0.318,0.55,118.332
+430,Brainwashed - Stereo Mix,The Kinks,Arthur (Deluxe Edition),155013,5,1969-10-10,13,0.522,0.666,2,0.475,0,0.0334,0.0239,1.83e-05,0.127,0.777,74.163
+431,Australia - Stereo Mix,The Kinks,Arthur (Deluxe Edition),406573,6,1969-10-10,13,0.309,0.855,8,0.738,1,0.0549,0.0379,0.000562,0.0855,0.601,97.551
+432,Shangri-La - Stereo Mix,The Kinks,Arthur (Deluxe Edition),321226,7,1969-10-10,16,0.394,0.766,0,0.113,1,0.0527,0.281,0.0,0.0949,0.342,112.391
+433,Mr. Churchill Says - Stereo Mix,The Kinks,Arthur (Deluxe Edition),283240,8,1969-10-10,12,0.37,0.842,7,0.617,1,0.048,0.0299,0.0037,0.132,0.731,96.616
+434,She's Bought a Hat Like Princess Marina - Stereo Mix,The Kinks,Arthur (Deluxe Edition),187826,9,1969-10-10,10,0.483,0.754,7,0.624,1,0.0892,0.219,0.0,0.0647,0.577,115.797
+435,Young and Innocent Days - Stereo Mix,The Kinks,Arthur (Deluxe Edition),201653,10,1969-10-10,10,0.42,0.279,0,0.688,1,0.0311,0.632,0.0,0.112,0.214,94.573
+436,Nothing to Say - Stereo Mix,The Kinks,Arthur (Deluxe Edition),189080,11,1969-10-10,10,0.39,0.698,2,0.394,1,0.0336,0.0401,0.0,0.142,0.807,198.775
+437,Arthur - Stereo Mix,The Kinks,Arthur (Deluxe Edition),326360,12,1969-10-10,12,0.593,0.897,2,0.79,1,0.0356,0.00858,0.0,0.0918,0.935,123.335
+438,Plastic Man - Stereo Mix,The Kinks,Arthur (Deluxe Edition),182293,13,1969-10-10,12,0.645,0.695,2,0.6,1,0.0297,0.214,0.0,0.248,0.926,96.073
+439,This Man He Weeps Tonight - Stereo Mix,The Kinks,Arthur (Deluxe Edition),159693,14,1969-10-10,13,0.591,0.717,11,0.533,0,0.0381,0.00209,0.0,0.0474,0.751,133.88
+440,Drivin' - Stereo Alternate Mix,The Kinks,Arthur (Deluxe Edition),196426,15,1969-10-10,7,0.706,0.347,2,0.61,1,0.0331,0.475,0.0,0.102,0.369,118.106
+441,Mindless Child of Motherhood - Stereo Mix,The Kinks,Arthur (Deluxe Edition),190733,16,1969-10-10,9,0.386,0.585,5,0.316,1,0.0295,0.00331,0.0,0.131,0.687,137.734
+442,Hold My Hand,The Kinks,Arthur (Deluxe Edition),195333,17,1969-10-10,11,0.518,0.732,0,0.283,1,0.0383,0.22,0.0,0.0877,0.587,81.899
+443,Lincoln County,The Kinks,Arthur (Deluxe Edition),203560,18,1969-10-10,9,0.557,0.531,7,0.73,1,0.0283,0.19,0.0,0.376,0.781,74.621
+444,Mr. Shoemaker's Daughter,The Kinks,Arthur (Deluxe Edition),189266,19,1969-10-10,9,0.344,0.685,9,0.951,1,0.086,0.0751,0.0,0.147,0.563,163.204
+445,Mr. Reporter,The Kinks,Arthur (Deluxe Edition),219453,20,1969-10-10,10,0.533,0.713,2,0.403,1,0.0278,0.159,0.0,0.0571,0.917,96.535
+446,Shangri-La - Backing Track,The Kinks,Arthur (Deluxe Edition),329413,21,1969-10-10,8,0.447,0.523,0,0.367,1,0.0343,0.302,0.674,0.135,0.223,111.756
+447,The Village Green Preservation Society,The Kinks,The Kinks Are The Village Green Preservation Society,173640,1,1968-01-01,12,0.497,0.938,7,0.706,1,0.0693,0.303,0.0,0.0438,0.671,98.191
+448,Do You Remember Walter,The Kinks,The Kinks Are The Village Green Preservation Society,147626,2,1968-01-01,4,0.65,0.747,0,0.919,1,0.0298,0.19,7.95e-05,0.0992,0.608,91.495
+449,Picture Book,The Kinks,The Kinks Are The Village Green Preservation Society,156000,3,1968-01-01,4,0.818,0.926,0,0.715,1,0.0311,0.201,1.39e-05,0.235,0.974,121.194
+450,Johnny Thunder,The Kinks,The Kinks Are The Village Green Preservation Society,151586,4,1968-01-01,4,0.57,0.762,2,0.982,1,0.0287,0.186,0.0,0.113,0.64,98.039
+451,Last Of The Steam Powered Trains,The Kinks,The Kinks Are The Village Green Preservation Society,251013,5,1968-01-01,8,0.42,0.79,9,0.749,1,0.058,0.0468,0.000314,0.0654,0.805,142.22
+452,Big Sky,The Kinks,The Kinks Are The Village Green Preservation Society,171693,6,1968-01-01,3,0.53,0.814,10,0.522,1,0.0285,0.0111,9.04e-06,0.0655,0.528,98.213
+453,Sitting By The Riverside,The Kinks,The Kinks Are The Village Green Preservation Society,144146,7,1968-01-01,3,0.478,0.599,5,0.607,1,0.0306,0.46,6.43e-06,0.193,0.687,136.57
+454,Animal Farm,The Kinks,The Kinks Are The Village Green Preservation Society,181506,8,1968-01-01,2,0.517,0.694,9,0.595,1,0.0257,0.513,0.0,0.125,0.763,77.248
+455,Village Green,The Kinks,The Kinks Are The Village Green Preservation Society,131853,9,1968-01-01,3,0.63,0.74,0,0.414,0,0.0286,0.159,0.0,0.29,0.69,101.644
+456,Starstruck,The Kinks,The Kinks Are The Village Green Preservation Society,147186,10,1968-01-01,4,0.584,0.678,5,0.976,1,0.0305,0.0607,0.0,0.0725,0.874,133.381
+457,Phenomenal Cat,The Kinks,The Kinks Are The Village Green Preservation Society,159173,11,1968-01-01,3,0.523,0.226,2,0.812,1,0.0475,0.714,0.0,0.0998,0.154,57.473
+458,All Of My Friends Were There,The Kinks,The Kinks Are The Village Green Preservation Society,145600,12,1968-01-01,3,0.495,0.566,10,0.242,1,0.055,0.317,0.0,0.204,0.631,106.525
+459,Wicked Annabella,The Kinks,The Kinks Are The Village Green Preservation Society,163813,13,1968-01-01,2,0.701,0.841,4,0.663,1,0.0285,0.423,0.000842,0.0774,0.637,103.149
+460,Monica,The Kinks,The Kinks Are The Village Green Preservation Society,140840,14,1968-01-01,3,0.608,0.723,7,0.73,1,0.0371,0.511,0.0,0.0877,0.872,131.114
+461,People Take Pictures Of Each Other,The Kinks,The Kinks Are The Village Green Preservation Society,142133,15,1968-01-01,2,0.739,0.801,0,0.788,1,0.0483,0.217,0.0,0.115,0.914,144.415
+462,The Village Green Preservation Society,The Kinks,The Kinks Are The Village Green Preservation Society,169280,16,1968-01-01,1,0.553,0.947,7,0.936,1,0.0574,0.23,0.0,0.0857,0.708,97.641
+463,Do You Remember Walter,The Kinks,The Kinks Are The Village Green Preservation Society,145440,17,1968-01-01,1,0.584,0.774,5,0.751,1,0.0337,0.215,1.21e-06,0.0906,0.674,93.109
+464,Picture Book,The Kinks,The Kinks Are The Village Green Preservation Society,157306,18,1968-01-01,1,0.831,0.952,0,0.442,1,0.0311,0.166,0.000282,0.247,0.97,121.153
+465,Johnny Thunder [Stereo Remix],The Kinks,The Kinks Are The Village Green Preservation Society,151373,19,1968-01-01,1,0.569,0.698,2,0.993,1,0.0298,0.0377,0.00325,0.131,0.615,98.326
+466,Monica,The Kinks,The Kinks Are The Village Green Preservation Society,136000,20,1968-01-01,2,0.629,0.781,7,0.805,1,0.0401,0.278,0.0,0.0658,0.871,132.514
+467,Days,The Kinks,The Kinks Are The Village Green Preservation Society,173013,21,1968-01-01,2,0.538,0.774,2,1.0,1,0.0275,0.0821,0.0021,0.0626,0.88,100.928
+468,Village Green,The Kinks,The Kinks Are The Village Green Preservation Society,129786,22,1968-01-01,2,0.71,0.796,0,0.785,0,0.0277,0.386,0.0,0.195,0.838,103.321
+469,Mr. Songbird,The Kinks,The Kinks Are The Village Green Preservation Society,145120,23,1968-01-01,1,0.557,0.46,0,0.562,1,0.0325,0.377,0.0,0.0666,0.539,136.992
+470,Wicked Annabella,The Kinks,The Kinks Are The Village Green Preservation Society,162466,24,1968-01-01,0,0.641,0.859,4,0.343,1,0.0392,0.083,0.000223,0.0682,0.587,104.513
+471,Starstruck,The Kinks,The Kinks Are The Village Green Preservation Society,141800,25,1968-01-01,7,0.664,0.781,5,0.925,1,0.0328,0.185,0.0,0.0615,0.919,134.648
+472,Phenomenal Cat,The Kinks,The Kinks Are The Village Green Preservation Society,158200,26,1968-01-01,1,0.499,0.216,0,0.406,1,0.0439,0.743,6.12e-06,0.0701,0.239,116.047
+473,People Take Pictures Of Each Other [Stereo Version],The Kinks,The Kinks Are The Village Green Preservation Society,144866,27,1968-01-01,0,0.729,0.877,0,0.63,1,0.233,0.182,0.0,0.228,0.489,146.878
+474,Days [Mono Single],The Kinks,The Kinks Are The Village Green Preservation Society,185400,28,1968-01-01,1,0.526,0.823,2,0.017,1,0.0405,0.129,0.0,0.0618,0.829,100.083
+475,David Watts,The Kinks,Something Else (Deluxe Edition),149173,1,1967-09-15,31,0.616,0.848,9,0.408,1,0.0409,0.265,3.76e-06,0.392,0.833,140.821
+476,Death of a Clown,The Kinks,Something Else (Deluxe Edition),181520,2,1967-09-15,46,0.514,0.657,0,0.84,1,0.0333,0.0855,0.0,0.257,0.71,80.635
+477,Two Sisters,The Kinks,Something Else (Deluxe Edition),119133,3,1967-09-15,30,0.533,0.684,2,0.433,1,0.0323,0.131,2.05e-05,0.0748,0.529,114.218
+478,No Return - Mono Mix,The Kinks,Something Else (Deluxe Edition),122080,4,1967-09-15,24,0.602,0.518,6,0.29,1,0.0286,0.169,0.00017,0.131,0.378,138.653
+479,Harry Rag - Mono Mix,The Kinks,Something Else (Deluxe Edition),135653,5,1967-09-15,26,0.498,0.677,0,0.258,0,0.0489,0.149,2.44e-06,0.0419,0.967,149.941
+480,Tin Soldier Man - Mono Mix,The Kinks,Something Else (Deluxe Edition),168920,6,1967-09-15,24,0.73,0.637,9,0.799,1,0.0409,0.393,0.000376,0.0631,0.624,132.103
+481,Situation Vacant - Mono Mix,The Kinks,Something Else (Deluxe Edition),195160,7,1967-09-15,24,0.596,0.767,4,0.678,1,0.0826,0.00576,2.14e-05,0.137,0.42,119.115
+482,Love Me Till the Sun Shines - Mono Mix,The Kinks,Something Else (Deluxe Edition),197133,8,1967-09-15,25,0.467,0.835,4,0.46,0,0.172,0.0348,1.72e-06,0.0709,0.829,99.142
+483,Lazy Old Sun - Mono Mix,The Kinks,Something Else (Deluxe Edition),167906,9,1967-09-15,23,0.49,0.709,0,0.768,1,0.0405,0.0603,1.02e-06,0.22,0.294,103.902
+484,Afternoon Tea - Mono Mix,The Kinks,Something Else (Deluxe Edition),204653,10,1967-09-15,27,0.644,0.668,9,0.413,1,0.0353,0.403,0.0,0.0648,0.478,113.276
+485,Funny Face,The Kinks,Something Else (Deluxe Edition),135906,11,1967-09-15,22,0.682,0.662,2,0.217,1,0.0823,0.46,0.000291,0.0973,0.688,125.43
+486,End of the Season,The Kinks,Something Else (Deluxe Edition),176666,12,1967-09-15,22,0.479,0.52,4,0.271,0,0.0351,0.34,0.0,0.315,0.359,106.046
+487,Waterloo Sunset - Mono Mix,The Kinks,Something Else (Deluxe Edition),194216,13,1967-09-15,64,0.512,0.69,1,0.365,0,0.0249,0.162,0.0,0.167,0.417,107.839
+488,Act Nice and Gentle,The Kinks,Something Else (Deluxe Edition),157600,14,1967-09-15,23,0.652,0.665,9,0.684,1,0.0261,0.0481,0.000493,0.0644,0.848,79.266
+489,Mr. Pleasant,The Kinks,Something Else (Deluxe Edition),177973,15,1967-09-15,30,0.561,0.807,9,0.0,0,0.0438,0.0675,0.0,0.26,0.655,95.12
+490,Susannah's Still Alive - Mono Mix,The Kinks,Something Else (Deluxe Edition),142853,16,1967-09-15,24,0.567,0.844,2,0.828,1,0.0362,0.0293,0.0,0.0833,0.608,110.723
+491,Autumn Almanac,The Kinks,Something Else (Deluxe Edition),183526,17,1967-09-15,36,0.667,0.56,9,0.324,1,0.0468,0.476,0.0,0.113,0.633,118.874
+492,Harry Rag - Mono Alternate Take,The Kinks,Something Else (Deluxe Edition),133480,18,1967-09-15,16,0.553,0.723,7,0.622,1,0.0436,0.185,0.0,0.308,0.857,153.664
+493,David Watts - Mono Alternate Take,The Kinks,Something Else (Deluxe Edition),152293,19,1967-09-15,14,0.461,0.773,2,0.574,1,0.0403,0.111,0.0,0.544,0.899,149.177
+494,Afternoon Tea - Canadian Mono Mix,The Kinks,Something Else (Deluxe Edition),197213,20,1967-09-15,14,0.599,0.577,9,0.266,1,0.0317,0.725,0.0,0.0802,0.338,113.172
+495,"Sunny Afternoon - Live at Maida Vale Studios, 1967",The Kinks,Something Else (Deluxe Edition),172000,21,1967-09-15,19,0.572,0.463,0,0.412,1,0.0309,0.101,0.003,0.186,0.651,62.837
+496,Autumn Almanac - Live At the BBC,The Kinks,Something Else (Deluxe Edition),185240,22,1967-09-15,13,0.67,0.503,9,0.603,1,0.0407,0.128,1.31e-05,0.819,0.697,119.641
+497,"Mr. Pleasant - Live at Maida Vale Studios, 1967",The Kinks,Something Else (Deluxe Edition),168173,23,1967-09-15,13,0.613,0.629,9,0.134,0,0.0411,0.00607,0.0514,0.0768,0.911,104.98
+498,"Susannah's Still Alive - Live at Maida Vale Studios, 1967",The Kinks,Something Else (Deluxe Edition),133666,24,1967-09-15,11,0.467,0.633,2,1.0,1,0.0302,0.00931,0.488,0.171,0.524,111.951
+499,"David Watts - Live at Maida Vale Studios, 1967",The Kinks,Something Else (Deluxe Edition),129560,25,1967-09-15,11,0.522,0.679,2,0.665,1,0.0415,0.00176,0.187,0.395,0.912,146.685
+500,"Love Me Till the Sun Shines - Live at The Playhouse Theatre, 1967",The Kinks,Something Else (Deluxe Edition),138680,26,1967-09-15,10,0.654,0.65,9,0.726,1,0.0315,0.452,0.34,0.182,0.639,106.248
+501,Death of a Clown - Live At the BBC,The Kinks,Something Else (Deluxe Edition),165266,27,1967-09-15,21,0.505,0.691,0,0.86,1,0.0271,0.128,0.0,0.579,0.737,168.847
+502,Good Luck Charm - BBC Live,The Kinks,Something Else (Deluxe Edition),76626,28,1967-09-15,10,0.719,0.572,7,0.807,1,0.0352,0.745,0.000329,0.364,0.862,114.767
+503,Harry Rag - Live At the BBC,The Kinks,Something Else (Deluxe Edition),146680,29,1967-09-15,10,0.587,0.575,7,0.538,0,0.22,0.079,0.00895,0.0603,0.898,148.906
+504,Little Women - Mono Backing Track,The Kinks,Something Else (Deluxe Edition),132520,30,1967-09-15,11,0.639,0.418,9,0.764,1,0.0265,0.477,0.861,0.106,0.509,94.667
+505,David Watts - Stereo Mix,The Kinks,Something Else (Deluxe Edition),160746,1,1967-09-15,15,0.609,0.829,2,0.722,1,0.0329,0.15,8.06e-05,0.348,0.871,140.548
+506,Death of a Clown - Stereo Mix,The Kinks,Something Else (Deluxe Edition),193400,2,1967-09-15,16,0.501,0.682,0,0.88,1,0.0288,0.109,4.54e-06,0.296,0.731,160.445
+507,Two Sisters - Stereo Mix,The Kinks,Something Else (Deluxe Edition),121653,3,1967-09-15,14,0.589,0.674,2,0.445,1,0.0274,0.126,1.06e-05,0.17,0.481,113.126
+508,No Return - Stereo Mix,The Kinks,Something Else (Deluxe Edition),119733,4,1967-09-15,13,0.606,0.465,6,0.365,1,0.0287,0.134,5.91e-05,0.114,0.408,138.189
+509,Harry Rag - Stereo Mix,The Kinks,Something Else (Deluxe Edition),134573,5,1967-09-15,15,0.689,0.624,7,0.0,0,0.0648,0.211,0.0,0.0428,0.967,75.041
+510,Tin Soldier Man - Stereo Mix,The Kinks,Something Else (Deluxe Edition),167400,6,1967-09-15,13,0.732,0.629,9,0.812,1,0.0417,0.628,0.000529,0.0724,0.63,132.112
+511,Situation Vacant,The Kinks,Something Else (Deluxe Edition),194733,7,1967-09-15,14,0.533,0.71,4,0.677,1,0.0713,0.0143,2.49e-05,0.178,0.447,119.154
+512,Love Me Till the Sun Shines - Stereo Mix,The Kinks,Something Else (Deluxe Edition),197426,8,1967-09-15,13,0.47,0.842,9,0.755,1,0.182,0.0224,0.0,0.0636,0.803,99.07
+513,Lazy Old Sun - Stereo Mix,The Kinks,Something Else (Deluxe Edition),166293,9,1967-09-15,14,0.503,0.715,0,0.888,1,0.0463,0.0907,0.0,0.346,0.366,103.745
+514,Afternoon Tea - Stereo Mix,The Kinks,Something Else (Deluxe Edition),204826,10,1967-09-15,14,0.652,0.573,9,0.132,1,0.0358,0.435,0.0,0.0616,0.523,112.861
+515,Funny Face - Stereo Mix,The Kinks,Something Else (Deluxe Edition),135960,11,1967-09-15,11,0.688,0.573,2,0.261,1,0.142,0.397,1.87e-05,0.0886,0.663,126.66
+516,End of the Season - Stereo Mix,The Kinks,Something Else (Deluxe Edition),178453,12,1967-09-15,11,0.536,0.571,4,0.0,0,0.0311,0.161,0.0,0.313,0.301,106.109
+517,Waterloo Sunset - Stereo Mix,The Kinks,Something Else (Deluxe Edition),197693,13,1967-09-15,30,0.555,0.642,1,0.199,0,0.0245,0.0716,0.0,0.16,0.582,107.554
+518,Susannah's Still Alive,The Kinks,Something Else (Deluxe Edition),140946,14,1967-09-15,14,0.513,0.696,2,1.0,1,0.0368,0.0196,0.0,0.0889,0.69,111.55
+519,Autumn Almanac - Stereo Mix,The Kinks,Something Else (Deluxe Edition),193653,15,1967-09-15,15,0.745,0.512,9,0.472,1,0.0498,0.153,0.00073,0.0656,0.666,120.102
+520,Sand On My Shoes - Stereo Mix,The Kinks,Something Else (Deluxe Edition),188053,16,1967-09-15,11,0.731,0.544,0,0.6,1,0.0363,0.08,1.45e-06,0.215,0.634,119.371
+521,Afternoon Tea - Stereo Alternate Version,The Kinks,Something Else (Deluxe Edition),221413,17,1967-09-15,9,0.678,0.591,9,0.329,0,0.029,0.155,0.0,0.0907,0.761,110.253
+522,Mr. Pleasant - Stereo Alternate Version,The Kinks,Something Else (Deluxe Edition),195080,18,1967-09-15,11,0.696,0.651,11,0.624,0,0.0307,0.354,1.9e-06,0.0555,0.653,93.45
+523,Lazy Old Sun - Stereo Alternate Vocal Version,The Kinks,Something Else (Deluxe Edition),193240,19,1967-09-15,8,0.461,0.661,0,0.757,1,0.0445,0.129,1.8e-05,0.136,0.307,104.037
+524,Funny Face - Stereo Alternate Version,The Kinks,Something Else (Deluxe Edition),159813,20,1967-09-15,8,0.636,0.496,9,0.66,1,0.0518,0.359,0.0,0.162,0.502,125.901
+525,Party Line - Mono Mix,The Kinks,Face to Face (Deluxe Edition),154893,1,1966-10-28,26,0.607,0.944,11,0.523,0,0.0951,0.485,2e-06,0.0505,0.725,105.74
+526,Rosy Won't You Please Come Home - Mono Mix,The Kinks,Face to Face (Deluxe Edition),151800,2,1966-10-28,27,0.482,0.758,7,0.293,1,0.0332,0.431,0.0,0.073,0.916,119.996
+527,Dandy - Mono Mix,The Kinks,Face to Face (Deluxe Edition),132280,3,1966-10-28,35,0.602,0.627,2,0.638,1,0.0274,0.175,0.0,0.134,0.865,92.094
+528,Too Much On My Mind - Mono Mix,The Kinks,Face to Face (Deluxe Edition),148640,4,1966-10-28,26,0.625,0.504,9,0.277,1,0.0278,0.137,0.0,0.114,0.658,115.063
+529,Session Man - Mono Mix,The Kinks,Face to Face (Deluxe Edition),132693,5,1966-10-28,22,0.486,0.702,2,0.735,1,0.0352,0.276,0.0,0.292,0.59,129.789
+530,Rainy Day in June - Mono Mix,The Kinks,Face to Face (Deluxe Edition),192893,6,1966-10-28,23,0.396,0.448,4,0.717,0,0.0357,0.445,3.24e-06,0.107,0.325,96.475
+531,House In the Country - Mono Mix,The Kinks,Face to Face (Deluxe Edition),180226,7,1966-10-28,23,0.55,0.706,4,0.942,1,0.0489,0.241,0.0,0.0574,0.921,145.866
+532,Holiday in Waikiki - Mono Mix,The Kinks,Face to Face (Deluxe Edition),169626,8,1966-10-28,23,0.472,0.872,4,0.806,1,0.129,0.194,0.0585,0.407,0.743,98.221
+533,Most Exclusive Residence for Sale - Mono Mix,The Kinks,Face to Face (Deluxe Edition),165733,9,1966-10-28,21,0.572,0.849,4,1.0,1,0.0417,0.245,0.0,0.0901,0.638,124.846
+534,Fancy - Mono Mix,The Kinks,Face to Face (Deluxe Edition),149840,10,1966-10-28,20,0.6,0.377,7,0.034,1,0.0279,0.488,0.0148,0.0791,0.0851,120.719
+535,Little Miss Queen of Darkness - Mono Mix,The Kinks,Face to Face (Deluxe Edition),195386,11,1966-10-28,24,0.679,0.498,2,0.346,1,0.0325,0.179,2.77e-06,0.0525,0.179,129.816
+536,You're Looking Fine - Mono Mix,The Kinks,Face to Face (Deluxe Edition),166133,12,1966-10-28,27,0.709,0.749,4,0.031,1,0.0258,0.205,0.0304,0.178,0.681,100.561
+537,Sunny Afternoon - Mono Mix,The Kinks,Face to Face (Deluxe Edition),210525,13,1966-10-28,65,0.595,0.462,2,0.022,0,0.0259,0.102,0.0,0.0641,0.526,124.991
+538,I'll Remember - Mono Mix,The Kinks,Face to Face (Deluxe Edition),145066,14,1966-10-28,21,0.509,0.824,9,0.81,1,0.0513,0.314,0.0,0.26,0.752,130.37
+539,Dead End Street - Mono Mix,The Kinks,Face to Face (Deluxe Edition),200531,15,1966-10-28,39,0.605,0.675,9,0.436,0,0.0598,0.727,0.00319,0.529,0.569,126.67
+540,Big Black Smoke - Mono Mix,The Kinks,Face to Face (Deluxe Edition),154840,16,1966-10-28,21,0.377,0.872,2,0.477,1,0.0667,0.0268,0.0,0.351,0.851,166.296
+541,This Is Where I Belong - Mono Mix,The Kinks,Face to Face (Deluxe Edition),142866,17,1966-10-28,21,0.409,0.8,7,0.66,1,0.0352,0.48,0.0,0.203,0.717,111.264
+542,She's Got Everything - Mono Mix,The Kinks,Face to Face (Deluxe Edition),191226,18,1966-10-28,25,0.585,0.807,0,1.0,1,0.0891,0.0824,0.0,0.0652,0.786,145.982
+543,Little Miss Queen of Darkness - Mono Alternate Take,The Kinks,Face to Face (Deluxe Edition),199373,19,1966-10-28,17,0.706,0.296,7,0.0,1,0.0361,0.202,1.48e-06,0.0569,0.0802,129.982
+544,Dead End Street - Alternate Mono Version,The Kinks,Face to Face (Deluxe Edition),176333,20,1966-10-28,16,0.47,0.539,9,0.406,0,0.0429,0.344,0.000132,0.125,0.547,134.029
+545,Party Line - Stereo Mix,The Kinks,Face to Face (Deluxe Edition),153093,1,1966-10-28,17,0.612,0.914,11,0.442,0,0.109,0.484,7.19e-06,0.0927,0.724,106.173
+546,Rosy Won't You Please Come Home - Stereo Mix,The Kinks,Face to Face (Deluxe Edition),150653,2,1966-10-28,18,0.484,0.819,7,0.358,1,0.0357,0.279,0.0,0.118,0.956,119.85
+547,Dandy - Stereo Mix,The Kinks,Face to Face (Deluxe Edition),129155,3,1966-10-28,20,0.61,0.627,2,0.641,1,0.0277,0.152,0.0,0.131,0.883,92.7
+548,Too Much on My Mind - Stereo Mix,The Kinks,Face to Face (Deluxe Edition),145973,4,1966-10-28,17,0.626,0.511,2,0.54,1,0.0282,0.188,0.0,0.108,0.723,115.617
+549,Session Man - Stereo Mix,The Kinks,Face to Face (Deluxe Edition),130320,5,1966-10-28,14,0.494,0.68,7,0.717,1,0.0305,0.00814,0.0,0.199,0.496,129.459
+550,Rainy Day in June - Stereo Mix,The Kinks,Face to Face (Deluxe Edition),188026,6,1966-10-28,17,0.389,0.52,2,0.137,1,0.032,0.591,0.0,0.149,0.564,96.993
+551,House in the Country - Stereo Mix,The Kinks,Face to Face (Deluxe Edition),182480,7,1966-10-28,15,0.535,0.747,4,0.879,1,0.0432,0.0949,0.0,0.0559,0.909,144.455
+552,Holiday in Waikiki - Stereo Mix,The Kinks,Face to Face (Deluxe Edition),169066,8,1966-10-28,14,0.512,0.824,4,0.79,1,0.104,0.225,0.0626,0.433,0.659,98.772
+553,Most Exclusive Residence for Sale - Stereo Mix,The Kinks,Face to Face (Deluxe Edition),167066,9,1966-10-28,13,0.573,0.72,4,0.821,1,0.0378,0.528,3e-05,0.493,0.698,125.571
+554,Fancy - Stereo Mix,The Kinks,Face to Face (Deluxe Edition),146066,10,1966-10-28,25,0.606,0.376,7,0.032,1,0.0291,0.362,0.0201,0.0799,0.0907,121.432
+555,Little Miss Queen of Darkness - Stereo Mix,The Kinks,Face to Face (Deluxe Edition),192733,11,1966-10-28,16,0.687,0.427,9,0.261,1,0.0317,0.109,1.37e-06,0.0607,0.216,130.778
+556,You're Looking Fine - Stereo Mix,The Kinks,Face to Face (Deluxe Edition),164466,12,1966-10-28,14,0.71,0.683,4,0.017,1,0.0256,0.243,0.0181,0.203,0.683,101.231
+557,Sunny Afternoon - Stereo Version,The Kinks,Face to Face (Deluxe Edition),214693,13,1966-10-28,41,0.555,0.553,0,0.402,1,0.0244,0.129,0.0,0.0687,0.446,61.997
+558,I'll Remember - Stereo Mix,The Kinks,Face to Face (Deluxe Edition),147080,14,1966-10-28,14,0.5,0.851,9,0.663,1,0.0619,0.372,0.0,0.207,0.72,129.084
+559,This Is Where I Belong - Stereo Mix,The Kinks,Face to Face (Deluxe Edition),164613,15,1966-10-28,14,0.457,0.703,7,0.614,1,0.0366,0.395,0.0,0.334,0.597,111.479
+560,Big Black Smoke - Stereo Mix,The Kinks,Face to Face (Deluxe Edition),153000,16,1966-10-28,14,0.364,0.871,2,0.382,1,0.0631,0.00684,0.0,0.491,0.86,166.482
+561,She's Got Everything - Stereo Mix,The Kinks,Face to Face (Deluxe Edition),189253,17,1966-10-28,17,0.566,0.806,0,1.0,1,0.143,0.0364,0.0,0.0754,0.739,146.136
+562,You're Looking Fine - Alternate Stereo Mix,The Kinks,Face to Face (Deluxe Edition),171306,18,1966-10-28,10,0.739,0.611,4,0.022,1,0.031,0.255,0.000521,0.169,0.544,101.852
+563,Sunny Afternoon - Alternate Stereo Mix,The Kinks,Face to Face (Deluxe Edition),228533,19,1966-10-28,19,0.6,0.58,7,0.192,1,0.0259,0.128,0.0,0.306,0.546,61.981
+564,Fancy - Alternate Stereo Mix,The Kinks,Face to Face (Deluxe Edition),176880,20,1966-10-28,10,0.576,0.317,7,0.092,1,0.0312,0.667,5.34e-05,0.157,0.137,121.396
+565,Little Miss Queen of Darkness - Alternate Stereo Mix,The Kinks,Face to Face (Deluxe Edition),201026,21,1966-10-28,11,0.659,0.488,2,0.663,1,0.0568,0.0529,0.0,0.315,0.222,130.98
+566,Dandy - Alternate Stereo Mix,The Kinks,Face to Face (Deluxe Edition),134986,22,1966-10-28,12,0.604,0.674,2,0.566,1,0.0297,0.645,0.0,0.0849,0.955,92.815
+567,Milk Cow Blues,The Kinks,The Kink Kontroversy,220893,1,1965-11-26,27,0.604,0.827,2,0.0,0,0.0436,0.574,0.5,0.227,0.476,92.542
+568,Ring the Bells,The Kinks,The Kink Kontroversy,137506,2,1965-11-26,20,0.739,0.452,2,0.095,1,0.0265,0.674,0.0295,0.113,0.598,101.148
+569,Gotta Get the First Plane Home,The Kinks,The Kink Kontroversy,105693,3,1965-11-26,21,0.48,0.782,0,1.0,1,0.078,0.31,0.000758,0.144,0.874,168.964
+570,When I See That Girl of Mine,The Kinks,The Kink Kontroversy,129400,4,1965-11-26,19,0.58,0.801,7,0.847,1,0.033,0.104,0.0159,0.081,0.954,131.917
+571,I Am Free,The Kinks,The Kink Kontroversy,146640,5,1965-11-26,18,0.286,0.546,0,1.0,1,0.0325,0.306,1.09e-05,0.113,0.69,188.774
+572,Till the End of the Day - Mono Mix,The Kinks,The Kink Kontroversy,138226,6,1965-11-26,39,0.542,0.929,0,0.669,1,0.0784,0.526,0.00597,0.125,0.793,140.8
+573,The World Keeps Going Round,The Kinks,The Kink Kontroversy,153493,7,1965-11-26,18,0.547,0.706,11,0.757,0,0.0785,0.435,0.145,0.0457,0.492,113.327
+574,I'm On an Island,The Kinks,The Kink Kontroversy,134800,8,1965-11-26,20,0.654,0.644,1,0.363,0,0.0478,0.444,0.0104,0.124,0.69,125.002
+575,Where Have All the Good Times Gone,The Kinks,The Kink Kontroversy,169093,9,1965-11-26,35,0.589,0.889,7,0.947,1,0.0415,0.505,2.15e-05,0.151,0.722,112.816
+576,It's Too Late,The Kinks,The Kink Kontroversy,152533,10,1965-11-26,17,0.705,0.813,2,0.254,1,0.0339,0.743,0.163,0.181,0.949,115.746
+577,What's In Store for Me,The Kinks,The Kink Kontroversy,123400,11,1965-11-26,16,0.413,0.925,7,0.658,1,0.101,0.266,2e-05,0.164,0.806,168.054
+578,You Can't Win,The Kinks,The Kink Kontroversy,158533,12,1965-11-26,17,0.666,0.873,1,0.597,0,0.056,0.153,0.043,0.0807,0.819,118.46
+579,Dedicated Follower of Fashion - Mono Mix,The Kinks,The Kink Kontroversy,180893,13,1965-11-26,41,0.406,0.879,0,0.854,1,0.0433,0.369,1.54e-06,0.41,0.885,172.994
+580,Sittin' On My Sofa,The Kinks,The Kink Kontroversy,183866,14,1965-11-26,23,0.615,0.645,6,0.326,1,0.0341,0.0901,0.00781,0.153,0.715,114.73
+581,When I See That Girl of Mine - Demo,The Kinks,The Kink Kontroversy,118693,15,1965-11-26,14,0.383,0.528,1,0.761,1,0.0309,0.176,0.00316,0.346,0.462,136.579
+582,Dedicated Follower of Fashion - Alternate Version,The Kinks,The Kink Kontroversy,181240,16,1965-11-26,21,0.373,0.779,0,0.905,1,0.0362,0.112,0.00197,0.241,0.962,170.593
+583,Look for Me Baby,The Kinks,Kinda Kinks,137813,1,1965-03-05,23,0.612,0.792,0,1.0,1,0.111,0.572,1.13e-06,0.174,0.724,121.116
+584,Got My Feet On the Ground,The Kinks,Kinda Kinks,135040,2,1965-03-05,23,0.558,0.937,7,0.938,1,0.103,0.235,0.0,0.6,0.824,106.232
+585,Nothin' In the World Can Stop Me Worryin' 'Bout That Girl,The Kinks,Kinda Kinks,164466,3,1965-03-05,44,0.612,0.277,2,0.441,0,0.0355,0.59,2.24e-05,0.118,0.444,98.581
+586,Naggin' Woman,The Kinks,Kinda Kinks,156946,4,1965-03-05,21,0.706,0.586,0,0.903,1,0.0426,0.163,0.0,0.347,0.536,105.772
+587,Wonder Where My Baby Is Tonight,The Kinks,Kinda Kinks,118266,5,1965-03-05,20,0.693,0.659,7,0.506,1,0.0425,0.415,0.0,0.331,0.748,90.841
+588,Tired of Waiting for You,The Kinks,Kinda Kinks,149851,6,1965-03-05,45,0.674,0.731,0,0.713,1,0.0332,0.526,0.0,0.272,0.834,122.097
+589,Dancing In the Street,The Kinks,Kinda Kinks,140293,7,1965-03-05,25,0.61,0.896,0,0.853,1,0.0359,0.0849,0.0,0.297,0.818,129.398
+590,Don't Ever Change,The Kinks,Kinda Kinks,143693,8,1965-03-05,23,0.655,0.902,7,0.743,1,0.0319,0.515,0.00382,0.323,0.941,120.52
+591,Come On Now,The Kinks,Kinda Kinks,108213,9,1965-03-05,41,0.511,0.9,0,1.0,1,0.0329,0.711,0.000156,0.12,0.718,164.37
+592,So Long,The Kinks,Kinda Kinks,130666,10,1965-03-05,20,0.583,0.462,0,0.738,1,0.0309,0.785,0.0,0.105,0.46,107.532
+593,You Shouldn't Be Sad,The Kinks,Kinda Kinks,120933,11,1965-03-05,19,0.419,0.898,4,0.463,0,0.0697,0.178,0.0,0.259,0.909,144.098
+594,Something Better Beginning,The Kinks,Kinda Kinks,146120,12,1965-03-05,20,0.627,0.686,2,0.837,1,0.0264,0.214,0.0,0.0777,0.633,118.164
+595,Ev'rybody's Gonna Be Happy,The Kinks,Kinda Kinks,133200,13,1965-03-05,29,0.404,0.903,2,0.076,0,0.097,0.114,0.0,0.0609,0.675,94.154
+596,Who'll Be the Next In Line,The Kinks,Kinda Kinks,122626,14,1965-03-05,25,0.33,0.858,11,0.856,0,0.0552,0.052,0.0,0.0752,0.923,161.385
+597,Set Me Free,The Kinks,Kinda Kinks,129779,15,1965-03-05,38,0.681,0.593,7,0.023,1,0.0691,0.774,0.0,0.111,0.808,119.501
+598,I Need You,The Kinks,Kinda Kinks,145626,16,1965-03-05,31,0.628,0.917,0,0.888,1,0.0335,0.0129,0.0,0.0449,0.967,135.127
+599,See My Friends,The Kinks,Kinda Kinks,164466,17,1965-03-05,27,0.476,0.749,8,0.447,0,0.0369,0.695,0.0,0.388,0.507,125.675
+600,Never Met a Girl Like You Before,The Kinks,Kinda Kinks,124053,18,1965-03-05,19,0.647,0.911,9,0.48,1,0.088,0.552,0.0,0.342,0.675,113.018
+601,Wait Till the Summer Comes Along,The Kinks,Kinda Kinks,128173,19,1965-03-05,20,0.596,0.634,9,0.139,1,0.0261,0.0898,0.0,0.109,0.918,99.543
+602,Such a Shame,The Kinks,Kinda Kinks,137813,20,1965-03-05,19,0.749,0.747,4,0.469,0,0.0409,0.438,0.0,0.227,0.722,113.207
+603,A Well Respected Man,The Kinks,Kinda Kinks,161586,21,1965-03-05,57,0.53,0.873,4,0.182,0,0.118,0.297,0.0,0.0521,0.583,162.154
+604,Don't You Fret,The Kinks,Kinda Kinks,162533,22,1965-03-05,18,0.451,0.553,6,0.06,1,0.0412,0.0525,0.0,0.0508,0.248,101.029
+605,I Go to Sleep - Demo Version,The Kinks,Kinda Kinks,162666,23,1965-03-05,39,0.658,0.0742,4,0.059,0,0.0961,0.979,0.000736,0.13,0.362,161.312
+606,Beautiful Delilah,The Kinks,Kinks,125120,1,1964-10-02,33,0.506,0.95,7,0.115,0,0.0648,0.137,0.0,0.346,0.735,117.484
+607,So Mystifying,The Kinks,Kinks,173173,2,1964-10-02,30,0.614,0.947,7,0.818,1,0.0402,0.0231,0.000147,0.256,0.846,108.036
+608,Just Can't Go to Sleep - Mono Mix,The Kinks,Kinks,118960,3,1964-10-02,28,0.733,0.899,7,0.581,1,0.0321,0.537,9.19e-06,0.143,0.936,119.069
+609,Long Tall Shorty,The Kinks,Kinks,171826,4,1964-10-02,30,0.667,0.792,0,0.481,1,0.0809,0.516,0.000137,0.0801,0.77,175.401
+610,I Took My Baby Home,The Kinks,Kinks,109026,5,1964-10-02,28,0.356,0.969,9,0.422,1,0.3,0.507,0.0,0.314,0.602,161.014
+611,I'm a Lover Not a Fighter,The Kinks,Kinks,123520,6,1964-10-02,27,0.7,0.966,2,0.151,1,0.0622,0.059,0.000119,0.096,0.57,119.198
+612,You Really Got Me - Mono Mix,The Kinks,Kinks,134253,7,1964-10-02,71,0.573,0.939,8,0.558,1,0.0808,0.493,0.0,0.0994,0.963,137.382
+613,Cadillac,The Kinks,Kinks,164600,8,1964-10-02,28,0.421,0.828,4,0.579,1,0.1,0.494,0.0,0.103,0.752,120.755
+614,Bald Headed Woman,The Kinks,Kinks,161626,9,1964-10-02,26,0.612,0.792,2,0.428,1,0.0493,0.109,0.00394,0.0748,0.335,105.126
+615,Revenge - Mono Mix,The Kinks,Kinks,89573,10,1964-10-02,26,0.577,0.875,5,0.055,0,0.0375,0.0199,0.0252,0.13,0.966,146.562
+616,Too Much Monkey Business,The Kinks,Kinks,135240,11,1964-10-02,26,0.599,0.822,5,0.0,0,0.226,0.465,0.0,0.0545,0.921,98.469
+617,I've Been Driving On Bald Mountain,The Kinks,Kinks,122186,12,1964-10-02,23,0.478,0.882,7,0.472,1,0.0539,0.265,0.0,0.542,0.885,186.408
+618,Stop Your Sobbing,The Kinks,Kinks,125893,13,1964-10-02,41,0.712,0.812,7,0.694,1,0.0332,0.126,3.43e-05,0.207,0.967,121.983
+619,Got Love if You Want It - Mono Mix,The Kinks,Kinks,226053,14,1964-10-02,25,0.599,0.785,5,0.536,0,0.0747,0.0358,1.03e-05,0.25,0.801,89.108
+620,Long Tall Sally - Mono Mix,The Kinks,Kinks,131813,15,1964-10-02,25,0.443,0.95,11,0.228,0,0.135,0.211,0.0,0.134,0.611,143.522
+621,You Still Want Me - Mono Mix,The Kinks,Kinks,118320,16,1964-10-02,25,0.546,0.901,4,0.383,1,0.17,0.699,0.0,0.252,0.745,146.293
+622,You Do Something to Me,The Kinks,Kinks,143906,17,1964-10-02,25,0.393,0.907,9,0.051,0,0.0919,0.356,0.0,0.606,0.834,163.447
+623,It's All Right,The Kinks,Kinks,156040,18,1964-10-02,23,0.236,0.9,7,0.209,1,0.0464,0.213,0.0,0.364,0.777,180.617
+624,All Day and All of the Night,The Kinks,Kinks,141506,19,1964-10-02,67,0.551,0.86,7,1.0,1,0.0796,0.262,4.57e-06,0.0558,0.723,136.921
+625,I Gotta Move,The Kinks,Kinks,143746,20,1964-10-02,29,0.617,0.888,5,0.441,1,0.032,0.236,0.000163,0.107,0.973,103.762
+626,Louie Louie,The Kinks,Kinks,177480,21,1964-10-02,36,0.574,0.659,9,0.812,1,0.0512,0.0902,0.0,0.081,0.504,58.864
+627,I Gotta Go Now,The Kinks,Kinks,173226,22,1964-10-02,22,0.571,0.514,9,0.365,1,0.0481,0.227,1.01e-05,0.0709,0.651,106.363
+628,Things Are Getting Better,The Kinks,Kinks,114600,23,1964-10-02,21,0.559,0.869,2,0.443,1,0.102,0.189,0.0,0.0716,0.451,118.696
+629,I've Got That Feeling,The Kinks,Kinks,162600,24,1964-10-02,24,0.574,0.763,6,0.016,0,0.0389,0.187,0.0,0.0892,0.852,127.698
+630,Too Much Monkey Business - Alternate Take,The Kinks,Kinks,127893,25,1964-10-02,20,0.562,0.878,5,0.451,1,0.147,0.0213,0.0,0.369,0.958,117.194
+631,I Don't Need You Anymore,The Kinks,Kinks,130906,26,1964-10-02,23,0.402,0.779,11,0.195,1,0.058,0.208,0.0,0.151,0.92,154.169
