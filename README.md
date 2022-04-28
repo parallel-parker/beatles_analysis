@@ -39,7 +39,7 @@ In addition to this essential cleaning, further cleaning can be done to provide 
 Once the data is sourced and cleaned - the process of which can be followed in the attached Jupyter notebooks for Python 3 - the analysis will be faily standard.
 
 THE FINDINGS:
-A brief powerpoint presentation can be found in the repository offering a summarized version of the above and a run-down of key findings. A tableau dashbaord to visualize and interpret the findings can be found here: _______
+A brief powerpoint presentation can be found in the repository offering a summarized version of the above and a run-down of key findings. A tableau dashbaord to visualize and interpret the findings can be found here: https://public.tableau.com/app/profile/parker.hanna/viz/beatles_analysis/Dashboard1#1
 
 ACKNOWLEDGEMENTS:
 As the project was completed in accordance with Nashville Software School graduation requirements, I owe a ton to my instructors, Chris Wright, Joshua Rio-Ross, and Olariche Obi. In addition to them, I owe a debt of gratitude to NSS's other faculty who helped guide the course and assist with career dev, and of course my fellow cohorts who equal-parts assisted and challenged me every day. Finally, shoutout to The Beatles.
