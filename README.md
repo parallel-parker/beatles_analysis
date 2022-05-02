@@ -12,7 +12,7 @@ This gets fun when we start to incorporate data from Spotify's API, which includ
 DATA QUESTIONS:
 To answer the guiding question - who is the more popular Beatle - we will rely simply on a popularity score average from Spotify, and we will also be able to offer extended answers to this question by considering the additional layer of the Beatles’ respective solo careers. This serves as a jumping-off point to dig further into the Spotify metadata, which includes such musical descriptors as tempo, liveliness, energy, valence (a variable to measure whether the song sounds happy or sad), acousticness, among other variables. These variables provide us with a lot of material to explore the following: How do the Beatles' individually compare to each other in musical features; which musical features tend to correlate to greater popularity; how do these variable measures change overtime and fit with our understanding of the Beatles' history; how do these measurements correspond to the music of their peers.
 
-TECHNOLOGIES USED: Python 3 // Spotipy Python Library // Excel // Tableau
+TECHNOLOGIES USED: Python 3 // Spotipy Python Library // Excel // Tableau 
 
 DATA SOURCES: 
 The primary song data is sourced from Spotify’s API (https://developer.spotify.com/documentation/web-api/). Additional data needed to assign each track to a specific bandmember is webscraped from a popular but unofficial Beatle's fan site: http://www.beatlesarchive.net/composer-singer-beatles-songs.html. The data from both sources will be combined into a single dataframe for easy analysis.
